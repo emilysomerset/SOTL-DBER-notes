@@ -1,0 +1,10 @@
+---
+title: "Reading Notes"
+listing:
+  contents: "."
+  sort: "date desc"
+  type: default
+  fields: [title, date, tags]
+---
+
+These are my reflections and summaries on pedagogical research papers.

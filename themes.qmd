@@ -1,0 +1,26 @@
+---
+title: "Pedagogical Map"
+format:
+  html:
+    toc: true
+---
+
+This page maps recurring themes I care about in pedagogy. Each section lists notes tagged with that concept.
+
+## Growth Mindset
+
+```{listing}
+contents: notes
+filter: categories contains "learning-design"
+sort: "date desc"
+```
+
+## Formative Assessments
+
+```{listing}
+contents: notes
+filter: tags == "formativeassessment"
+sort: "date desc"
+```
+
+
