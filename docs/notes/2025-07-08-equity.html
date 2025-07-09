@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Emily">
+<meta name="author" content="Emily Somerset">
 <meta name="dcterms.date" content="2025-07-08">
 
-<title>Equity – Pedagogy Notes</title>
+<title>Notes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’ – Pedagogy Notes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -113,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
   <li><a href="#key-quotes" id="toc-key-quotes" class="nav-link" data-scroll-target="#key-quotes">Key Quotes</a></li>
   <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
-  <li><a href="#related-ideas" id="toc-related-ideas" class="nav-link" data-scroll-target="#related-ideas">Related Ideas</a></li>
+  <li><a href="#related-ideascitations" id="toc-related-ideascitations" class="nav-link" data-scroll-target="#related-ideascitations">Related Ideas/citations</a></li>
   </ul>
 </nav>
     </div>
@@ -122,10 +122,9 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Equity</h1>
+<h1 class="title">Notes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">learning-design</div>
-    <div class="quarto-category">constructivism</div>
+    <div class="quarto-category">generative AI</div>
   </div>
   </div>
 
@@ -136,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Emily </p>
+             <p>Emily Somerset </p>
           </div>
   </div>
     
@@ -157,32 +156,77 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="source" class="level2">
 <h2 class="anchored" data-anchor-id="source">Source</h2>
-<p><strong>Kapur, M. (2008).</strong> Productive failure. <em>Cognitive Science</em>, 32(2), 362–383.</p>
+<p><strong>Schwarz, J. (2025).</strong> The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences. <em>Teaching Statistics</em>, 47(2), 118-128.</p>
 </section>
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
 <ul>
-<li>Learners who attempt complex problems <strong>before</strong> instruction outperform those who receive instruction first.</li>
-<li>This is especially effective when learners have <strong>enough prior knowledge</strong> to engage with the problem, even if they don’t succeed.</li>
-<li>Contrasts with traditional scaffolding-first models.</li>
+<li><strong>Study population:</strong> Students who are not pursuing careers as data analysts or data scientists. For example, those studying social sciences or business administration. In line with GAISE recommendations, these students are introduced to foundational theoretical concepts and learn how to apply them to real-world data sets.</li>
+<li><strong>Research question(s):</strong>
+<ol type="1">
+<li>Can generative AI enable statistical data analysis even for people with little or no knowledge of statistics, at least for problems with a simpler structure?</li>
+<li>If generative AI can perform a substantial portion of data analysis, what should be the future focus of statistics education? That is, what priorities should guide the design of statistics curricula?</li>
+</ol></li>
+<li><strong>Methods:</strong>
+<ul>
+<li>The authors focus on analyses that can be performed using basic methods of t-test, linear regression, and ANOVA.</li>
+<li>Four data sets were intentionally designed to include minor violations of statistical test assumptions. For example, unequal variances across factor levels (violating ANOVA assumptions), outliers, or missing data.</li>
+<li>rompts were given to ChatGPT Data Analyst as if the user had no statistical training. For example: “Please investigate statistically whether [y] differs for different levels of [x],” or “I have no statistical knowledge, can you please explain the results to me?”</li>
+<li>The analyses were repeated 2–3 times for each data set to check the stability of the results.</li>
+</ul></li>
+<li><strong>Results:</strong>
+<ul>
+<li>ChatGPT Data Analyst completed full analyses without requiring domain-specific knowledge from the user, explaining each step before implementation.</li>
+<li>However, the analyses were often incomplete. For example, issues such as heterogeneity in group variances, outliers, sample size, and missing data were not consistently addressed.</li>
+<li>In only one of the three repeated analyses, ChatGPT acknowledged the need to check assumptions in a linear regression context but did not follow through.</li>
+<li>The authors successfully reproduced the results using the Python code generated by ChatGPT.</li>
+</ul></li>
+<li><strong>Conclusions:</strong>
+<ul>
+<li>Reliable use of ChatGPT for data analysis requires some statistical knowledge to formulate effective prompts and identify missing steps.</li>
+<li>Less emphasis may be needed on programming, as AI can support code generation; instead, teaching can focus on using AI tools effectively.</li>
+<li>Core statistical concepts should still be taught to help students assess the completeness of results.</li>
+<li>Clear guidelines are needed on if and how ChatGPT may be used in assessments.</li>
+</ul></li>
 </ul>
 </section>
 <section id="key-quotes" class="level2">
 <h2 class="anchored" data-anchor-id="key-quotes">Key Quotes</h2>
 <blockquote class="blockquote">
-<p>“The very process of failure seems to prepare the mind for learning.”</p>
+<p>“The selection of suitable statistical test procedure can often be based on rules and checking assumptions and can therefore be completely taken over by generative AI. The simpler the structure of the data set to be analyzed, the truer this is.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Although the examination of application assumptions is a standard part of test selection, ChatGPT failed to perform this step consistently, or at all in some cases.”</p>
 </blockquote>
 </section>
 <section id="reflection" class="level2 callout-reflection">
 <h2 class="callout-reflection anchored" data-anchor-id="reflection">Reflection</h2>
-<p>This paper really challenges my instinct to scaffold heavily before asking students to problem-solve. I wonder how this could work in stats ed — maybe as a warm-up activity before introducing a new method?</p>
-</section>
-<section id="related-ideas" class="level2">
-<h2 class="anchored" data-anchor-id="related-ideas">Related Ideas</h2>
 <ul>
-<li>Cognitive Load Theory (Sweller)</li>
-<li>Desirable Difficulties (Bjork)</li>
+<li>It is surprising that ChatGPT is inconsistent in completing routine analyses. The stability checks show it can assess application requirements, yet it does not do so consistently across iterations. This is a limitation for users with little knowledge of statistics, as they would not be able to recognize the limitations of the results.</li>
+<li>The suggestion that “teachers can incorporate exercises that encourage students to code more efficiently and accurately with the assistance of AI” is interesting—I would like to see concrete examples of how this can be implemented.</li>
+<li>The authors note as a limitation that prompts were designed assuming users had no statistical knowledge. However, they acknowledge that it’s unclear whether this reflects how real users actually interact with AI. Additionally, since these examples were artificially generated, it remains to be studied how students or analysts genuinely use ChatGPT and what their final analysis outcomes look like.</li>
 </ul>
+</section>
+<section id="related-ideascitations" class="level2">
+<h2 class="anchored" data-anchor-id="related-ideascitations">Related Ideas/citations</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 28%">
+<col style="width: 71%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Topic</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Division of labor between humans and machines</td>
+<td>Frey, C. B., &amp; Osborne, M. (2024). <em>Generative AI and the future of work: a reappraisal</em>. <em>Brown Journal of World Affairs</em>, 30(1), 1–17.</td>
+</tr>
+</tbody>
+</table>
 
 
 </section>
