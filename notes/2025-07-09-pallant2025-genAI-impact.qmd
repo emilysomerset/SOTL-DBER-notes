@@ -14,30 +14,42 @@ image: "https://cdn.mos.cms.futurecdn.net/GSkcxRqtHam58T5URwTN7c.jpg"
 ## Summary
 
 - **Study population:** 
+  - The study involved students studying marketing in Melbourne, Australia.
+  - A total of 32 undergraduate students from one university and 29 postgraduate students from another completed a pretest survey on GenAI use.
+  - In total, 198 students from three universities were enrolled in the study: 56 and 84 students in two undergraduate units, and 58 in a postgraduate unit. 
+  - Six students did not complete the study, resulting in a final sample of 192 students included in the analysis.
 
-- **Relevant Background:**
-  - **Achievement Goals Framework**  is a well-established theory in education research, often used to study academic behaviours such as cheating and to explain how positive learning outcomes are achieved. The framework posits that students adopt either **performance goals** and/or **mastery goals** in their approach to learning. Performance goal orientations emphasize demonstrating competence relative to others, focusing on grades, comparison, and external validation. While this mindset can offer short-term motivation, it often undermines deep learning and discourages students from taking intellectual risks. In contrast, mastery goal orientations prioritize the development of competence and a genuine pursuit of understanding. Students with this mindset tend to embrace challenges as opportunities for growth, leading to more sustained and meaningful learning. This paper proposes that similar patterns may emerge in how students integrate generative AI into their learning, depending on their underlying goal orientation.
-
-- **Research question(s):** The research question explored in this paper is: By what means does goal structure relate to how students use generative AI (GenAI) to craft knowledge outputs and achieve learning outcomes? This is addressed through two primary objectives:
-    1) To explore whether students’ use of GenAI is affected by their goal orientations, and
-    2) To examine how students’ use of GenAI affects their learning outcomes.
+- **Research question(s):** The research question explored in this paper is: *By what means does goal structure relate to how students use generative AI (GenAI) to craft knowledge outputs and achieve learning outcomes?* This is explored through four primary objectives:
+    1) Examine whether students’ use of GenAI is influenced by their goal orientations (mastery vs. performance).
+    2) Analyze how students’ use of GenAI impacts their learning outcomes.
+    3) Assess the extent to which students use GenAI to augment knowledge and bridge knowledge gaps.
+    4) Investigate the degree to which students demonstrate critical and reflective thinking when engaging with GenAI.
     
-
 - **Methods:** 
+  - Quasi-experimental lens as ethical considerations prevent exposing one group to GenAI while withholding it from another.
+  - Pretest survey 
+
 
 - **Results:**
-
+  - hello
+  
 - **Conclusions:**
-
+  - hello
    
 ## Key Quotes
 
 > "The unique and complex landscape of GenAI. along with its potential impact on the student experience and implications for learning outcomes, remains largely unknown."
 
+> "By understanding the mechanisms behind students' attitutdes toward and use of GenAI in their learning will provide clearer guidance on how to tackle concerns and leverage opportunities"
+
 
 
 ## Reflection {.callout-reflection}
 
+
+## Relevant Background
+  - **Achievement Goals Framework**  is a well-established theory in education research, often used to study academic behaviours such as cheating and to explain how positive learning outcomes are achieved. The framework posits that students adopt either **performance goals** and/or **mastery goals** in their approach to learning. Performance goal orientations emphasize demonstrating competence relative to others, focusing on grades, comparison, and external validation. While this mindset can offer short-term motivation, it often undermines deep learning and discourages students from taking intellectual risks. In contrast, mastery goal orientations prioritize the development of competence and a genuine pursuit of understanding. Students with this mindset tend to embrace challenges as opportunities for growth, leading to more sustained and meaningful learning. This paper proposes that similar patterns may emerge in how students integrate generative AI into their learning, depending on their underlying goal orientation.
+   - **Zone of Proximal Development (ZPD)** describes the difference between what a learner can accomplish independently and what they can achieve with guidance from a more knowledgeable person. As learners gain experience and skills, their ZPD evolves. Generative AI (GenAI) can offer tailored support within a student’s current ZPD and adjust as the learner progresses. This approach aligns with constructivist pedagogy, which emphasizes authentic, collaborative learning that challenges students within their ZPD.
 
 
 ## Related Ideas/citations
@@ -48,4 +60,5 @@ image: "https://cdn.mos.cms.futurecdn.net/GSkcxRqtHam58T5URwTN7c.jpg"
 |AI on critical thinking |**Essien, A., Bukoye, O. T., O’Dea, X., & Kremantzis, M. (2024)**. The influence of AI text generators on critical thinking skills in UK business schools. *Studies in Higher Education*, 49(5), 865-882. |
 |Student attitutes towards AI |**Chan, C. K. Y., & Zhou, W. (2023)**. Deconstructing student perceptions of generative AI (GenAI) through an expectancy value theory (EVT)-based instrument. arXiv preprint arXiv:2305.01186. |
 |Achievement Goals Framework| **Elliot, A. J. (2005)**. A Conceptual History of the Achievement Goal Construct. *Handbook of Competence and Motivation*, 52-72.<br> **Nicholls, J. G. (1984)**. Achievement motivation: conceptions of ability, subjective experience, task choice, and performance. *Psychological review*, 91(3), 328.|
+|Zone of Proximal Development | **Vygotsky, L. S. (1978)**. Mind in society: The development of higher psychological processes (Vol. 86). Harvard university press.|
 
