@@ -41,7 +41,7 @@ tags: [none]
 ## Reflection {.callout-reflection}
 
 - It is surprising that ChatGPT is inconsistent in completing routine analyses. The stability checks show it can assess application requirements, yet it does not do so consistently across iterations.  This is a limitation for users with little knowledge of statistics, as they would not be able to recognize the limitations of the results.
-- The suggestion that "teachers can incorporate exercises that encourage students to code more efficiently and accurately with the assistance of AI" is interesting—I would like to see concrete examples of how this can be implemented.
+- The suggestion that "teachers can incorporate exercises that encourage students to code more efficiently and accurately with the assistance of AI" is interesting. I would like to see concrete examples of how this can be implemented.
 - The authors note as a limitation that prompts were designed assuming users had no statistical knowledge. However, they acknowledge that it’s unclear whether this reflects how real users actually interact with AI. Additionally, since these examples were artificially generated, it remains to be studied how students or analysts genuinely use ChatGPT and what their final analysis outcomes look like.
 
 ## Related Ideas/citations
