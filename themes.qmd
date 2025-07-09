@@ -1,26 +1,20 @@
 ---
-title: "Pedagogical Map"
-format:
-  html:
-    toc: true
+title: "Reading Notes"
+listing:
+  contents: notes
+  categories: true
+  sort: "date"
+  type: grid
 ---
 
-This page maps recurring themes I care about in pedagogy. Each section lists notes tagged with that concept.
+<!-- This page maps recurring themes I care about in pedagogy. Each section lists notes tagged with that concept. -->
 
-## Growth Mindset
+<!-- ## Generative AI -->
 
-```{listing}
-contents: notes
-filter: categories contains "learning-design"
-sort: "date desc"
-```
-
-## Formative Assessments
-
-```{listing}
-contents: notes
-filter: tags == "formativeassessment"
-sort: "date desc"
-```
-
+<!-- ```{listing} -->
+<!-- contents: notes -->
+<!-- filter: categories contains "generative AI" -->
+<!-- sort: "date desc" -->
+<!-- max-depth: 2 -->
+<!-- ``` -->
 

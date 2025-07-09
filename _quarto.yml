@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "Pedagogy Notes"
-  navbar:
-    left:
-      - href: notes/index.qmd
-        text: Reading Notes
+  title: "Reading Notes"
+  # navbar:
+  #   left:
+  #     - href: themes.qmd
+  #       text: Reading Notes
 
 format:
   html:

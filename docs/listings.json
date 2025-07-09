@@ -2,7 +2,22 @@
   {
     "listing": "/notes/index.html",
     "items": [
-      "/notes/2025-07-08-equity.html"
+      "/notes/2025-07-09-pallant2025-genAI-impact.html",
+      "/notes/2025-07-08-schwarz2025-genAI.html"
+    ]
+  },
+  {
+    "listing": "/themes.html",
+    "items": [
+      "/notes/2025-07-08-schwarz2025-genAI.html",
+      "/notes/2025-07-09-pallant2025-genAI-impact.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/notes/2025-07-09-pallant2025-genAI-impact.html",
+      "/notes/2025-07-08-schwarz2025-genAI.html"
     ]
   }
 ]

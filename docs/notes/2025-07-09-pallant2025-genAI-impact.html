@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Emily Somerset">
+<meta name="dcterms.date" content="2025-07-09">
 
-<title>Reading notes – Reading Notes</title>
+<title>Notes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’ – Pedagogy Notes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,29 +25,28 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -67,91 +68,89 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
-<body>
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Pedagogy Notes</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../notes/index.html"> 
+<span class="menu-text">Reading Notes</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../themes.html"> 
+<span class="menu-text">Pedagogical Map</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="generative AI">generative AI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="learning outcomes">learning outcomes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="qualitative analysis">qualitative analysis <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#source" id="toc-source" class="nav-link active" data-scroll-target="#source">Source</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#key-quotes" id="toc-key-quotes" class="nav-link" data-scroll-target="#key-quotes">Key Quotes</a></li>
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
+  <li><a href="#related-ideascitations" id="toc-related-ideascitations" class="nav-link" data-scroll-target="#related-ideascitations">Related Ideas/citations</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Reading notes</h1>
-</div>
+<h1 class="title">Notes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">generative AI</div>
+    <div class="quarto-category">learning outcomes</div>
+    <div class="quarto-category">qualitative analysis</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Emily Somerset </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 9, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -161,89 +160,47 @@ window.Quarto = {
 </header>
 
 
+<section id="source" class="level2">
+<h2 class="anchored" data-anchor-id="source">Source</h2>
+<p><strong>Pallant, J. L., Blijlevens, J., Campbell, A., &amp; Jopp, R. (2025)</strong>. Mastering knowledge: the impact of generative AI on student learning outcomes. <em>Studies in Higher Education</em>, 1–22</p>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<ul>
+<li><p><strong>Study population:</strong></p></li>
+<li><p><strong>Research question(s):</strong></p></li>
+<li><p><strong>Methods:</strong></p></li>
+<li><p><strong>Results:</strong></p></li>
+<li><p><strong>Conclusions:</strong></p></li>
+</ul>
+</section>
+<section id="key-quotes" class="level2">
+<h2 class="anchored" data-anchor-id="key-quotes">Key Quotes</h2>
+</section>
+<section id="reflection" class="level2 callout-reflection">
+<h2 class="callout-reflection anchored" data-anchor-id="reflection">Reflection</h2>
+</section>
+<section id="related-ideascitations" class="level2">
+<h2 class="anchored" data-anchor-id="related-ideascitations">Related Ideas/citations</h2>
+<table class="caption-top">
+<colgroup>
+<col style="width: 28%">
+<col style="width: 71%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Topic</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="generative AI,learning outcomes,qualitative analysis" data-listing-date-sort="1752033600000" data-listing-file-modified-sort="1752076612936" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
-<div class="thumbnail">
-<p><a href="./notes/2025-07-09-pallant2025-genAI-impact.html" class="no-external"></a></p><a href="./notes/2025-07-09-pallant2025-genAI-impact.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./notes/2025-07-09-pallant2025-genAI-impact.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notes/2025-07-09-pallant2025-genAI-impact.html" class="no-external">Notes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./notes/2025-07-09-pallant2025-genAI-impact.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('generative AI'); return false;">
-generative AI
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('learning outcomes'); return false;">
-learning outcomes
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('qualitative analysis'); return false;">
-qualitative analysis
-</div>
-</div>
-<div class="listing-description">
-<a href="./notes/2025-07-09-pallant2025-genAI-impact.html" class="no-external"><strong>Pallant, J. L., Blijlevens, J., Campbell, A., &amp; Jopp, R. (2025)</strong>. Mastering knowledge: the impact of generative AI on student learning outcomes. <em>Studies in Higher Education</em>…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./notes/2025-07-09-pallant2025-genAI-impact.html" class="no-external">
-<div class="listing-date">
-Jul 9, 2025
-</div>
-<div class="listing-author">
-Emily Somerset
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="generative AI" data-listing-date-sort="1751947200000" data-listing-file-modified-sort="1752078320915" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="828">
-<div class="thumbnail">
-<p><a href="./notes/2025-07-08-schwarz2025-genAI.html" class="no-external"></a></p><a href="./notes/2025-07-08-schwarz2025-genAI.html" class="no-external">
-<p><img loading="lazy" src="https://miro.medium.com/v2/resize:fit:1015/1*dQK4Z9ky7tTFQ66hkua0Og.png" class="thumbnail-image"></p>
-</a><p><a href="./notes/2025-07-08-schwarz2025-genAI.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./notes/2025-07-08-schwarz2025-genAI.html" class="no-external">Notes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./notes/2025-07-08-schwarz2025-genAI.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('generative AI'); return false;">
-generative AI
-</div>
-</div>
-<div class="listing-description">
-<a href="./notes/2025-07-08-schwarz2025-genAI.html" class="no-external"><strong>Schwarz, J. (2025).</strong> The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences. <em>Teaching Statistics</em>…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./notes/2025-07-08-schwarz2025-genAI.html" class="no-external">
-<div class="listing-date">
-Jul 8, 2025
-</div>
-<div class="listing-author">
-Emily Somerset
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

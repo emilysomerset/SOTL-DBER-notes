@@ -1,9 +1,10 @@
 ---
 title: "Notes on : 'The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences'"
 author: Emily Somerset
-date: today
-categories: [generative AI]
+date: 2025-07-08
+categories: ["generative AI"]
 tags: [none]
+image: "https://miro.medium.com/v2/resize:fit:1015/1*dQK4Z9ky7tTFQ66hkua0Og.png"
 ---
 
 ## Source

@@ -1,0 +1,39 @@
+---
+title: "Notes on : 'Mastering knowledge: the impact of generative AI on student learning outcomes'"
+author: Emily Somerset
+date: today
+categories: [generative AI, learning outcomes, qualitative analysis]
+tags: [none]
+---
+
+## Source
+
+**Pallant, J. L., Blijlevens, J., Campbell, A., & Jopp, R. (2025)**. Mastering knowledge: the impact of generative AI on student learning outcomes. *Studies in Higher Education*, 1–22
+
+## Summary
+
+- **Study population:** 
+
+- **Research question(s):** 
+
+- **Methods:** 
+
+- **Results:**
+
+- **Conclusions:**
+
+   
+## Key Quotes
+
+
+
+## Reflection {.callout-reflection}
+
+
+
+## Related Ideas/citations
+
+| Topic                                 | Source                                                                                          |
+|---------------------------------------|-------------------------------------------------------------------------------------------------|
+
+

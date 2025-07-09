@@ -1,5 +1,8 @@
 ---
-title: "readings-notes"
+title: "Reading notes"
+listing: 
+  contents: notes
+  categories: true
+  sort: "date desc"
 ---
 
-This is my site to write down my notes about papers I read.
