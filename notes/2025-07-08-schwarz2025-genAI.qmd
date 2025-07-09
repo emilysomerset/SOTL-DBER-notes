@@ -20,7 +20,7 @@ image: "https://miro.medium.com/v2/resize:fit:1015/1*dQK4Z9ky7tTFQ66hkua0Og.png"
 - **Methods:** 
     - The authors focus on analyses that can be performed using basic methods of t-test, linear regression, and ANOVA. 
     - Four data sets were intentionally designed to include minor violations of statistical test assumptions. For example, unequal variances across factor levels (violating ANOVA assumptions), outliers, or missing data.
-    - rompts were given to ChatGPT Data Analyst as if the user had no statistical training. For example: “Please investigate statistically whether [y] differs for different levels of [x],” or “I have no statistical knowledge, can you please explain the results to me?”
+    - Prompts were given to ChatGPT Data Analyst as if the user had no statistical training. For example: “Please investigate statistically whether [y] differs for different levels of [x],” or “I have no statistical knowledge, can you please explain the results to me?”
     - The analyses were repeated 2–3 times for each data set to check the stability of the results.
 - **Results:**
     - ChatGPT Data Analyst completed full analyses without requiring domain-specific knowledge from the user, explaining each step before implementation.
