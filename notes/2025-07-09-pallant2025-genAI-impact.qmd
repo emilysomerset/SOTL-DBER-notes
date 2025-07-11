@@ -1,7 +1,7 @@
 ---
 title: "Notes on : 'Mastering knowledge: the impact of generative AI on student learning outcomes'"
 author: Emily Somerset
-date: today
+date: 2025-07-10
 categories: [generative AI, learning outcomes, qualitative analysis]
 tags: [none]
 image: "https://cdn.mos.cms.futurecdn.net/GSkcxRqtHam58T5URwTN7c.jpg"
@@ -14,31 +14,40 @@ image: "https://cdn.mos.cms.futurecdn.net/GSkcxRqtHam58T5URwTN7c.jpg"
 ## Summary
 
 - **Study population:** 
-  - The study involved students studying marketing in Melbourne, Australia.
-  - A total of 32 undergraduate students from one university and 29 postgraduate students from another completed a pretest survey on GenAI use.
+  - The study involved students studying **marketing** in Melbourne, Australia.
+  <!-- - A total of 32 undergraduate students from one university and 29 postgraduate students from another completed a pretest survey on generative AI (GenAI) use. -->
   - In total, 198 students from three universities were enrolled in the study: 56 and 84 students in two undergraduate units, and 58 in a postgraduate unit. 
-  - Six students did not complete the study, resulting in a final sample of 192 students included in the analysis.
+  - Six students did not complete the study, resulting in a final sample of **192 students** included in the analysis.
 
-- **Research question(s):** The research question explored in this paper is: *By what means does goal structure relate to how students use generative AI (GenAI) to craft knowledge outputs and achieve learning outcomes?* This is explored through four primary objectives:
-    1) Examine whether students’ use of GenAI is influenced by their goal orientations (mastery vs. performance).
-    2) Analyze how students’ use of GenAI impacts their learning outcomes.
-    3) Assess the extent to which students use GenAI to augment knowledge and bridge knowledge gaps.
-    4) Investigate the degree to which students demonstrate critical and reflective thinking when engaging with GenAI.
+- **Research question(s):** This paper had two primary objectives: 
+    1) To explore whether students’ use of generative AI (GenAI) is influenced by their goal orientations, and
+    2) To assess how students' use of GenAI impacts their learning outcomes
+<!-- This is explored through four primary objectives: -->
+<!--     1) Examine whether students’ use of GenAI is influenced by their goal orientations (mastery vs. performance). -->
+<!--     2) Analyze how students’ use of GenAI impacts their learning outcomes. -->
+<!--     3) Assess the extent to which students use GenAI to augment knowledge and bridge knowledge gaps. -->
+<!--     4) Investigate the degree to which students demonstrate critical and reflective thinking when engaging with GenAI. -->
     
 - **Methods:** 
-  - **Pretest survey (study 1):** Students were asked, *"Do you think generative AI such as ChatGPT could potentially be used to cheat in a university assessment?"* These free-text responses were collected to better understand students’ awareness of and attitudes toward GenAI in a tertiary education context.
-  - **Generative AI task (study 2)**
-      - A quasi-experimental approach was adopted, as ethical considerations prevented exposing one group to GenAI while withholding it from another.
-      - In Week 1, students used GenAI to generate a definition of a concept relevant to their course. After completing the 12-week unit, they wrote their own definition, compared it with the AI-generated one, and reflected on their learning.
-      - Approximately 75,000 words of student responses were analyzed using quantitative content analysis (QCA), which combined a qualitative coding framework with quantitative analyses applied after coding.
-  - Final unit marks (%) and assignment marks (%) were used as indicators of student learning for both the GenAI task and overall unit performance.
+  <!-- - **Pretest survey (study 1):** Students were asked, *"Do you think generative AI such as ChatGPT could potentially be used to cheat in a university assessment?"* These free-text responses were collected to better understand students’ awareness of and attitudes toward GenAI in a tertiary education context. -->
+  <!-- - **Generative AI task (study 2)** -->
+    - A quasi-experimental approach was adopted, as ethical considerations prevented exposing one group to GenAI while withholding it from another.
+    - In Week 1, students used GenAI to generate a definition of a concept relevant to their course. After completing the 12-week unit, they wrote their own definition, compared it with the AI-generated one, and reflected on their learning.
+    - Approximately 75,000 words of student responses were analyzed using quantitative content analysis (QCA), which combined a qualitative coding framework with quantitative analyses applied after coding.
+    - The coding framework captured **broad themes** [and more specific codes]:
+        - Whether GenAI use aligned with a **mastery goal structure** [constructive approach or augmenting knowledge] or a **performance goal structure** [regurgitating knowledge or procedural approach]
+        - Types of **learning outcomes** [information literacy,...]
+        - Types of **thinking capability** [applied knowledge, critical thinking,...]
+  - Final unit marks (%) and assignment marks (%) were used as indicators of student learning, both for the GenAI task and overall unit performance.
 
 
-- **Results:**
-  - In study 1, the authors classified the students into "performance" or "mastery" goal structures based on their answers to the pretest survey. 
-  
-- **Conclusions:**
-  - hello
+- **Selected results:**
+  - Students who used a constructive approach scored higher on both the assignment and the overall unit compared to those who did not (mean differences of 6.2%, p < 0.05, and 5.5%, p < 0.05, respectively).
+  - Students who used a procedural approach scored lower on both the assignment and the overall unit compared to those who did not (mean differences of –6.2%, p < 0.05, and –5.6%, p < 0.05, respectively).
+- **Selected practical implications:**
+  - Design assessments that ask students to compare and contrast GenAI responses with their own.
+  - Encourage students to reflect on how they collaborated with GenAI to reach their answers.
+  - Such assessments help students connect GenAI output to course content, develop reasoning skills, and recognize how GenAI (as a more knowledgeable source) can support learning within their zone of proximal development.
    
 ## Key Quotes
 
@@ -51,6 +60,7 @@ image: "https://cdn.mos.cms.futurecdn.net/GSkcxRqtHam58T5URwTN7c.jpg"
 ## Reflection {.callout-reflection}
  - It is unclear what makes this study a quasi-experiment, as it is not evident what the treatment or control groups would have been in a true experimental design.
  - Using grades as a measure of learning in a research setting has limitations. It would strengthen the study if the authors incorporated established assessment instruments or published questions and rubrics that are specifically designed to evaluate learning outcomes.
+ - Assignment grades are likely based on how well students critically evaluated differences between their own definition and the AI-generated one (the rubric was not provided). Given this, it’s unsurprising that students classified as having a mastery goal orientation received higher marks. The students are grouped into goal orientation categories based on their written responses and those same responses are also used to determine their grades. It's unclear whether students with a certain goal orientation tend to perform better, or whether their higher performance simply led to them being placed in that category. This makes it hard to draw any clear cause-and-effect conclusions. Therefore, based on my understanding, this study design is not able to assess the impact of GenAI on learning outcomes (study objective 2). 
 
 ## Relevant Background
   - **Achievement Goals Framework**  is a well-established theory in education research, often used to study academic behaviours such as cheating and to explain how positive learning outcomes are achieved. The framework posits that students adopt either **performance goals** and/or **mastery goals** in their approach to learning. Performance goal orientations emphasize demonstrating competence relative to others, focusing on grades, comparison, and external validation. While this mindset can offer short-term motivation, it often undermines deep learning and discourages students from taking intellectual risks. In contrast, mastery goal orientations prioritize the development of competence and a genuine pursuit of understanding. Students with this mindset tend to embrace challenges as opportunities for growth, leading to more sustained and meaningful learning. This paper proposes that similar patterns may emerge in how students integrate generative AI into their learning, depending on their underlying goal orientation.
