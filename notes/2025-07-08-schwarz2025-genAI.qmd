@@ -4,7 +4,7 @@ author: Emily Somerset
 date: 2025-07-08
 categories: ["generative AI"]
 tags: [none]
-image: "https://miro.medium.com/v2/resize:fit:1015/1*dQK4Z9ky7tTFQ66hkua0Og.png"
+image: "https://www.thenewatlantis.com/wp-content/uploads/2015/08/ex-machina-1.jpg"
 ---
 
 ## Source
