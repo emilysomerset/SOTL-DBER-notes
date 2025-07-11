@@ -53,7 +53,7 @@ image: "https://cdn.mos.cms.futurecdn.net/GSkcxRqtHam58T5URwTN7c.jpg"
 
 > "The unique and complex landscape of GenAI. along with its potential impact on the student experience and implications for learning outcomes, remains largely unknown."
 
-> "By understanding the mechanisms behind students' attitutdes toward and use of GenAI in their learning will provide clearer guidance on how to tackle concerns and leverage opportunities"
+> "By understanding the mechanisms behind students' attitudes toward and use of GenAI in their learning will provide clearer guidance on how to tackle concerns and leverage opportunities"
 
 
 
