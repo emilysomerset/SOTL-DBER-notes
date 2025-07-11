@@ -4,10 +4,10 @@ project:
 
 website:
   title: "Reading Notes"
-  # navbar:
-  #   left:
-  #     - href: themes.qmd
-  #       text: Reading Notes
+navbar:
+    left:
+      - href: index.qmd
+        text: Home
 
 format:
   html:
