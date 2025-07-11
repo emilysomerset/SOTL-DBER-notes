@@ -1,16 +1,18 @@
 [
   {
-    "listing": "/themes.html",
+    "listing": "/index.html",
     "items": [
-      "/notes/2025-07-08-schwarz2025-genAI.html",
-      "/notes/2025-07-09-pallant2025-genAI-impact.html"
+      "/notes/horton2022-embeddedethics-CS.html",
+      "/notes/2025-07-09-pallant2025-genAI-impact.html",
+      "/notes/2025-07-08-schwarz2025-genAI.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/themes.html",
     "items": [
+      "/notes/2025-07-08-schwarz2025-genAI.html",
       "/notes/2025-07-09-pallant2025-genAI-impact.html",
-      "/notes/2025-07-08-schwarz2025-genAI.html"
+      "/notes/horton2022-embeddedethics-CS.html"
     ]
   }
 ]

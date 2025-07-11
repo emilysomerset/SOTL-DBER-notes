@@ -16,8 +16,6 @@ image: "https://cdn.mos.cms.futurecdn.net/GSkcxRqtHam58T5URwTN7c.jpg"
 - **Study population:** 
   - The study involved students studying **marketing** in Melbourne, Australia.
   <!-- - A total of 32 undergraduate students from one university and 29 postgraduate students from another completed a pretest survey on generative AI (GenAI) use. -->
-  - In total, 198 students from three universities were enrolled in the study: 56 and 84 students in two undergraduate units, and 58 in a postgraduate unit. 
-  - Six students did not complete the study, resulting in a final sample of **192 students** included in the analysis.
 
 - **Research question(s):** This paper had two primary objectives: 
     1) To explore whether students’ use of generative AI (GenAI) is influenced by their goal orientations, and
@@ -42,6 +40,8 @@ image: "https://cdn.mos.cms.futurecdn.net/GSkcxRqtHam58T5URwTN7c.jpg"
 
 
 - **Selected results:**
+  - In total, 198 students from three universities were enrolled in the study: 56 and 84 students in two undergraduate units, and 58 in a postgraduate unit. 
+  - Six students did not complete the study, resulting in a final sample of **192 students** included in the analysis.
   - Students who used a constructive approach scored higher on both the assignment and the overall unit compared to those who did not (mean differences of 6.2%, p < 0.05, and 5.5%, p < 0.05, respectively).
   - Students who used a procedural approach scored lower on both the assignment and the overall unit compared to those who did not (mean differences of –6.2%, p < 0.05, and –5.6%, p < 0.05, respectively).
 - **Selected practical implications:**

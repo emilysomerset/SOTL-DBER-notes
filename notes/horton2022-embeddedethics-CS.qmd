@@ -1,0 +1,40 @@
+---
+title: "Notes on : 'Embedding Ethics in Computer Science Courses: Does it Work?'"
+author: Emily Somerset
+date: 2025-07-11
+categories: [embedded ethics]
+tags: [none]
+image: "https://64.media.tumblr.com/fe806f423896e049bdd3d3122ad743c5/d6014128e26796c5-98/s1280x1920/38379339e2419a002cb14574407f1a46eae268e2.png"
+---
+
+## Source
+
+**Horton, D., McIlraith, S. A., Wang, N., Majedi, M., McClure, E., & Wald, B. (2022, February)**. Embedding ethics in computer science courses: Does it work?. In *Proceedings of the 53rd ACM Technical Symposium on Computer Science Education-Volume 1* (pp. 481-487).
+
+## Summary
+
+- **Study population:** Computer science undergraduate students in the winter term 2021. 
+- **Research question(s):** 
+  1) Do undergraduate students who participate in Embedded Ethics modules report that the modules achieved the pedagogical goals set out in Section 3? 
+      - G1: to strongly connect ethics instruction to course content
+      - G2: to create an environment in which students feel safe sharing their opinions
+      - G3: to make ethics modules an enjoyable and positive experience
+      - G4: to generate enthusiasm for learning more about ethics in tech
+  2) Do undergraduate students who participate in Embedded Ethics modules have increased interest in and self-efficacy towards ethical issues in technology?
+- **Methods:** 
+- **Results:**
+- **Conclusions:**
+
+## Key Quotes
+
+
+## Reflection {.callout-reflection}
+
+
+
+## Related Ideas/citations
+
+| Topic                                 | Source                                                                                          |
+|---------------------------------------|-------------------------------------------------------------------------------------------------|
+
+
