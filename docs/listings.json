@@ -1,18 +1,20 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/themes.html",
     "items": [
+      "/notes/schwarz2025-genAI.html",
+      "/notes/pallant2025-genAI-impact.html",
       "/notes/horton2022-embeddedethics-CS.html",
-      "/notes/2025-07-09-pallant2025-genAI-impact.html",
-      "/notes/2025-07-08-schwarz2025-genAI.html"
+      "/notes/garfield2012-developing-statistical-modelers.html"
     ]
   },
   {
-    "listing": "/themes.html",
+    "listing": "/index.html",
     "items": [
-      "/notes/2025-07-08-schwarz2025-genAI.html",
-      "/notes/2025-07-09-pallant2025-genAI-impact.html",
-      "/notes/horton2022-embeddedethics-CS.html"
+      "/notes/garfield2012-developing-statistical-modelers.html",
+      "/notes/horton2022-embeddedethics-CS.html",
+      "/notes/pallant2025-genAI-impact.html",
+      "/notes/schwarz2025-genAI.html"
     ]
   }
 ]

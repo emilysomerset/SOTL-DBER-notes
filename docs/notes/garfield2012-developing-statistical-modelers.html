@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Emily Somerset">
+<meta name="dcterms.date" content="2025-07-17">
 
-<title>Reading Notes</title>
+<title>Notes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’ – Reading Notes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +25,21 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -67,65 +67,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -137,21 +79,50 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="embedded ethics">embedded ethics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="generative AI">generative AI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="instrument development">instrument development <span class="quarto-category-count">(1)</span></div><div class="category" data-category="learning outcomes assessment">learning outcomes assessment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="modeling">modeling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="qualitative analysis">qualitative analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="simulation">simulation <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#source" id="toc-source" class="nav-link active" data-scroll-target="#source">Source</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#key-quotes" id="toc-key-quotes" class="nav-link" data-scroll-target="#key-quotes">Key Quotes</a></li>
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
+  <li><a href="#additional-background" id="toc-additional-background" class="nav-link" data-scroll-target="#additional-background">Additional Background</a></li>
+  <li><a href="#related-ideascitations" id="toc-related-ideascitations" class="nav-link" data-scroll-target="#related-ideascitations">Related Ideas/citations</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Reading Notes</h1>
-</div>
+<h1 class="title">Notes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">simulation</div>
+    <div class="quarto-category">modeling</div>
+    <div class="quarto-category">learning outcomes assessment</div>
+    <div class="quarto-category">instrument development</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Emily Somerset </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 17, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -161,157 +132,101 @@ window.Quarto = {
 </header>
 
 
-<!-- This page maps recurring themes I care about in pedagogy. Each section lists notes tagged with that concept. -->
-<!-- ## Generative AI -->
-<!-- ```{listing} -->
-<!-- contents: notes -->
-<!-- filter: categories contains "generative AI" -->
-<!-- sort: "date desc" -->
-<!-- max-depth: 2 -->
-<!-- ``` -->
+<section id="source" class="level2">
+<h2 class="anchored" data-anchor-id="source">Source</h2>
+<p><strong>Garfield, J., delMas, R., &amp; Zieffler, A. (2012)</strong>. Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course. <em>ZDM</em>, 44(7), 883-898.</p>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<ul>
+<li><p><strong>Background:</strong></p>
+<ul>
+<li>Data from a large study of 13,917 undergraduate students enrolled in a first-year statistics course show that CAOS test results, used to assess learning outcomes in statistics (see additional background), remained stable from 2005 to 2011, with no improvement in student performance over the years despite reform efforts.</li>
+<li>This paper describes the CATALST curriculum and presents the results of a three-month teaching experiment evaluating its implementation and effectiveness.</li>
+</ul></li>
+<li><p><strong>Description and design of the CATALST curriculum:</strong></p>
+<ul>
+<li>The CATALST project was designed to create curricular material using research in:
+<ul>
+<li><strong><em>Model-eliciting activities (MEAs)</em></strong>: Open-ended problems (authentic or designed to appear authentic) that require small teams of students (3–4) to generate and evaluate solutions. These tasks should engage students in constructing and assessing their reasoning, and the solutions must be generalizable (lead to a solution that can be used in another problem).</li>
+<li><strong><em>Inventing to learn and the role of prior knowledge</em></strong>: In order to solve problem posed in the MEA, students invent and test models, which promotes statistical reasoning and thinking. These MEAs are designed to create the prior knowledge for the following activities in the unit.</li>
+<li><strong><em>Instructional design principles</em></strong>: Model for instructional design that is grounded in education research on how students learn and how to structure teaching to foster their statistical reasoning. It leads to activities that, for example, have students make testable conjectures about data, develop their reasoning of data generation and analysis, and incorporate technology to support the development of statistical reasoning.</li>
+<li><strong><em>Modeling work</em></strong>: The curriculum is designed to teach students how to “cook”, rather than simply follow a recipe. The aim is to move away from automatically applying a specific procedure (e.g., a t-test) and instead encourage students to consider what model appropriately <strong>generates</strong> the data, what constitutes sufficient evidence when testing an observed result, and how to use data to estimate the standard error when estimating a parameter. <strong>These skills are intended to support success in subsequent courses and enable students to apply their knowledge in novel contexts</strong>.
+<ul>
+<li>Example: Students practice setting up models, use models to simulate data, examine distributions of simulated data, evaluate an observed result within a distribution, and use that distribution to estimate a standard error.</li>
+<li>To perform modeling and simulation tasks, software used are Fathom and TinkerPlots<sup>™</sup></li>
+</ul></li>
+</ul></li>
+<li>During the teaching experiments used to revise the CATALST curriculum, modifications were made based on principles of design experiments (Cobb, 2003).</li>
+<li>The current version of the CATALST curriculum consists of 3 units: (1) Chance Models and Simulation, (2) Models for Comparing Groups, and (3) Estimating Models using Data.</li>
+</ul></li>
+<li><p><strong>Experiment:</strong></p>
+<ul>
+<li><p><strong>Study population:</strong></p></li>
+<li><p><strong>Research question(s):</strong> This paper had two primary objectives:</p></li>
+<li><p><strong>Methods:</strong></p></li>
+<li><p><strong>Selected results:</strong></p></li>
+</ul></li>
+<li><p><strong>Selected practical implications:</strong></p></li>
+</ul>
+</section>
+<section id="key-quotes" class="level2">
+<h2 class="anchored" data-anchor-id="key-quotes">Key Quotes</h2>
+<blockquote class="blockquote">
+<p>“Part of developing statistical thinking is to develop ideas of statistical modeling and the importance of selecting appropriate models, and realizing why Box’s statement that all models are wrong, but some are useful is so wise.”</p>
+</blockquote>
+</section>
+<section id="reflection" class="level2 callout-reflection">
+<h2 class="callout-reflection anchored" data-anchor-id="reflection">Reflection</h2>
+</section>
+<section id="additional-background" class="level2">
+<h2 class="anchored" data-anchor-id="additional-background">Additional Background</h2>
+<ul>
+<li>The <strong>Comprehensive Assessment of Outcomes in Statistics (CAOS) test</strong>, developed by Delmas et al.&nbsp;(2007), consists of 40 items that that students completing any introductory statistics course would be expected to understand. All items are designed to involve real or realistic contexts and data, and adhere to established guidelines for writing multiple-choice questions. The test underwent extensive content validation, with expert raters unanimously agreeing with statements such as: “CAOS measures basic outcomes in statistical literacy and reasoning that are appropriate for a first course in statistics,” and “CAOS measures outcomes for which I would be disappointed if they were not achieved by students who succeed in my statistics courses.” Notably, this validation exercise occurred before simulation-based inference became widely adopted as a pedagogical practice, as discussed in the next paragraph. The test was also subject to class testing, and an analysis of its internal consistency produced a Cronbach’s alpha coefficient of 0.82, indicating an acceptable level of reliability.</li>
+<li><strong>Simulation-based inference (SBI)</strong> is a statistical approach that uses data simulated under a null model and the resulting distribution of a test statistic to draw inferences. SBI is widely used in teaching to help students develop intuition about inference through hands-on simulation and visualization.</li>
+</ul>
+</section>
+<section id="related-ideascitations" class="level2">
+<h2 class="anchored" data-anchor-id="related-ideascitations">Related Ideas/citations</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 28%">
+<col style="width: 71%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Topic</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Model-eliciting activities</td>
+<td><strong>Lesh, R., Hoover, M., Hole, B., Kelly, A., &amp; Post, T. (2012)</strong>. Principles for developing thought-revealing activities for students and teachers. In <em>Handbook of research design in mathematics and science education</em> (pp.&nbsp;591-645). Routledge.</td>
+</tr>
+<tr class="even">
+<td>Instructional design principles</td>
+<td><strong>Cobb, P., &amp; McClain, K. (2004)</strong>. Principles of instructional design for supporting the development of students’ statistical reasoning. In D. Ben-Zvi &amp; J. Garfield (Eds.), <em>The challenge of developing statistical literacy, reasoning, and thinking</em>, 375-396.<br> <strong>Cobb, P., Confrey, J., DiSessa, A., Lehrer, R., &amp; Schauble, L. (2003)</strong>. Design experiments in educational research. <em>Educational researcher</em>, 32(1), 9-13.</td>
+</tr>
+<tr class="odd">
+<td>CAOS test</td>
+<td><strong>Delmas, R., Garfield, J., Ooms, A., &amp; Chance, B. (2007)</strong>. Assessing students’ conceptual understanding after a first course in statistics. <em>Statistics education research journal</em>, 6(2), 28-58.</td>
+</tr>
+<tr class="even">
+<td>Reconsidering prior knowledge</td>
+<td><strong>Schwartz, D. L., Sears, D., &amp; Chang, J. (2007)</strong>. Reconsidering prior knowledge. In M. C. Lovett &amp; P. Shah (Eds.), <em>Thinking with data</em> (pp.&nbsp;319–344). Lawrence Erlbaum Associates Publishers.</td>
+</tr>
+<tr class="odd">
+<td>Software</td>
+<td><strong>Finzer, W. (2012).</strong> <em>Fathom</em><sup>®</sup> <em>Dynamic Data</em><sup>™</sup> (Version 2L) [Computer software]. Emeryville, CA: Key Curriculum Press. <br> <strong>Konold, C., &amp; Miller, C. (2011).</strong> TinkerPlots<sup>™</sup> Version 2 [computer software]. Emeryville, CA: Key Curriculum Press.</td>
+</tr>
+</tbody>
+</table>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="generative AI" data-listing-date-sort="1751947200000" data-listing-file-modified-sort="1752248881933" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="828">
-<a href="./notes/schwarz2025-genAI.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://londongraphicnovelnetwork.com/wp-content/uploads/2022/06/kneel.jpg?w=1024" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Notes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('generative AI'); return false;">
-generative AI
-</div>
-</div>
-<div class="card-text listing-description">
-<strong>Schwarz, J. (2025).</strong> The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences. <em>Teaching Statistics</em>…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Emily Somerset
-</div>
-<div class="listing-date">
-Jul 8, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="generative AI,qualitative analysis" data-listing-date-sort="1752120000000" data-listing-file-modified-sort="1752527552143" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1415">
-<a href="./notes/pallant2025-genAI-impact.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://cdn.mos.cms.futurecdn.net/GSkcxRqtHam58T5URwTN7c.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Notes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('generative AI'); return false;">
-generative AI
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('qualitative analysis'); return false;">
-qualitative analysis
-</div>
-</div>
-<div class="card-text listing-description">
-<strong>Pallant, J. L., Blijlevens, J., Campbell, A., &amp; Jopp, R. (2025)</strong>. Mastering knowledge: the impact of generative AI on student learning outcomes. <em>Studies in Higher Education</em>…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Emily Somerset
-</div>
-<div class="listing-date">
-Jul 10, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="embedded ethics" data-listing-date-sort="1752206400000" data-listing-file-modified-sort="1752254529994" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="798">
-<a href="./notes/horton2022-embeddedethics-CS.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://64.media.tumblr.com/fe806f423896e049bdd3d3122ad743c5/d6014128e26796c5-98/s1280x1920/38379339e2419a002cb14574407f1a46eae268e2.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Notes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('embedded ethics'); return false;">
-embedded ethics
-</div>
-</div>
-<div class="card-text listing-description">
-<strong>Horton, D., McIlraith, S. A., Wang, N., Majedi, M., McClure, E., &amp; Wald, B. (2022, February)</strong>. Embedding ethics in computer science courses: Does it work?. In <em>Proceedings of…</em>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Emily Somerset
-</div>
-<div class="listing-date">
-Jul 11, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="simulation,modeling,learning outcomes assessment,instrument development" data-listing-date-sort="1752724800000" data-listing-file-modified-sort="1752809318126" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1094">
-<a href="./notes/garfield2012-developing-statistical-modelers.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://startalkmedia.com/wp-content/uploads/2017/02/Hidden-Figures-scene_Katherine-Johnson-calculates-orbital-insertion-trajectories_Credit_TM-and-C-2017-Twentieth-Century-Fox-Film-Corporation_All-rights-reserved.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Notes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('simulation'); return false;">
-simulation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('modeling'); return false;">
-modeling
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('learning outcomes assessment'); return false;">
-learning outcomes assessment
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('instrument development'); return false;">
-instrument development
-</div>
-</div>
-<div class="card-text listing-description">
-<strong>Garfield, J., delMas, R., &amp; Zieffler, A. (2012)</strong>. Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course. <em>ZDM</em>, 44(7), 883-898.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Emily Somerset
-</div>
-<div class="listing-date">
-Jul 17, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

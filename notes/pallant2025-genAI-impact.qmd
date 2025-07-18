@@ -2,7 +2,7 @@
 title: "Notes on : 'Mastering knowledge: the impact of generative AI on student learning outcomes'"
 author: Emily Somerset
 date: 2025-07-10
-categories: [generative AI, learning outcomes, qualitative analysis]
+categories: [generative AI, qualitative analysis]
 tags: [none]
 image: "https://cdn.mos.cms.futurecdn.net/GSkcxRqtHam58T5URwTN7c.jpg"
 ---
