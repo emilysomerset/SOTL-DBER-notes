@@ -49,55 +49,6 @@
     "text": "Related Ideas/citations\n\n\n\n\n\n\n\nTopic\nSource\n\n\n\n\nAI for student engagement\nNguyen, A., Kremantzis, M., Essien, A., Petrounias, I., & Hosseini, S. (2024). Enhancing student engagement through artificial intelligence (AI): Understanding the basics, opportunities, and challenges. Journal of University Teaching and Learning Practice, 21(6), 1-13.\n\n\nAI on critical thinking\nEssien, A., Bukoye, O. T., O’Dea, X., & Kremantzis, M. (2024). The influence of AI text generators on critical thinking skills in UK business schools. Studies in Higher Education, 49(5), 865-882.\n\n\nStudent attitutes towards AI\nChan, C. K. Y., & Zhou, W. (2023). Deconstructing student perceptions of generative AI (GenAI) through an expectancy value theory (EVT)-based instrument. arXiv preprint arXiv:2305.01186.\n\n\nAchievement Goals Framework\nElliot, A. J. (2005). A Conceptual History of the Achievement Goal Construct. Handbook of Competence and Motivation, 52-72. Nicholls, J. G. (1984). Achievement motivation: conceptions of ability, subjective experience, task choice, and performance. Psychological review, 91(3), 328.\n\n\nZone of Proximal Development\nVygotsky, L. S. (1978). Mind in society: The development of higher psychological processes (Vol. 86). Harvard university press."
   },
   {
-    "objectID": "notes/horton2022-embeddedethics-CS.html",
-    "href": "notes/horton2022-embeddedethics-CS.html",
-    "title": "Notes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’",
-    "section": "",
-    "text": "Horton, D., McIlraith, S. A., Wang, N., Majedi, M., McClure, E., & Wald, B. (2022, February). Embedding ethics in computer science courses: Does it work?. In Proceedings of the 53rd ACM Technical Symposium on Computer Science Education-Volume 1 (pp. 481-487)."
-  },
-  {
-    "objectID": "notes/horton2022-embeddedethics-CS.html#source",
-    "href": "notes/horton2022-embeddedethics-CS.html#source",
-    "title": "Notes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’",
-    "section": "",
-    "text": "Horton, D., McIlraith, S. A., Wang, N., Majedi, M., McClure, E., & Wald, B. (2022, February). Embedding ethics in computer science courses: Does it work?. In Proceedings of the 53rd ACM Technical Symposium on Computer Science Education-Volume 1 (pp. 481-487)."
-  },
-  {
-    "objectID": "notes/horton2022-embeddedethics-CS.html#summary",
-    "href": "notes/horton2022-embeddedethics-CS.html#summary",
-    "title": "Notes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’",
-    "section": "Summary",
-    "text": "Summary\n\nStudy population: Computer science undergraduate students in the winter term 2021.\nResearch question(s):\n\nDo undergraduate students who participate in Embedded Ethics modules report that the modules achieved the pedagogical goals set out in Section 3?\n\nG1: to strongly connect ethics instruction to course content\nG2: to create an environment in which students feel safe sharing their opinions\nG3: to make ethics modules an enjoyable and positive experience\nG4: to generate enthusiasm for learning more about ethics in tech\n\nDo undergraduate students who participate in Embedded Ethics modules have increased interest in and self-efficacy towards ethical issues in technology?\n\nMethods:\n\nCases: Delivered two embedded ethics modules (weeks 8 and 12) in a CS2 course intended for computer science majors.\nControls: Students in a difference CS2 did not receive embedded ethics modules\nEmbedded modules design:\n\nTopic chose was COVID-19 Contact tracing as it raises the ethical concern related to trade-offs between privacy and protecting public health, while relating to course content (e.g. algorithms)\nTo realize G2, students were asked to advocate for the viewpoint of an assigned stakeholder (e.g. health professionals, individuals whom privacy was paramount) \nFlipped class design with a low-stakes writing activity worth 1% towards their course grade.\n\nData: Students completed surveys at the start and end of the study. Each survey included six questions measuring their interest in and confidence with ethical issues in technology. These questions were combined into a single scale (maximum score: 42), with higher scores reflecting greater interest and self-efficacy in dealing with ethical issues. The initial survey also collected demographic information. For students in the treatment group, the post-survey included additional questions about the learning modules. These were combined into a pedagogical scale (maximum score: 25), with higher scores reflecting greater success in meeting pedagogical goals (G1–G4).\n\nResults:\n\nSample: A total of 842 students participated (consented), with 217 in the treatment group and 624 in the control group.\n\nThe control group included a higher proportion of women (38%) compared to the treatment group (24%), p &lt; 0.001.\nA greater percentage of first-generation post-secondary students were in the control group (15%) than in the treatment group (6%), p &lt; 0.001.\n\nInstrument’s internal consistency: TThe ethics scale showed strong internal consistency at both time points, with Cronbach’s alpha of 0.86 on the pre-test and 0.90 on the post-test. The pedagogical scale also demonstrated strong reliability, with a Cronbach’s alpha of 0.81.\nInitial ethics survey: There was no significant difference in the mean baseline ethics survey scores between the treatment group (M = 28.14, SD = 6.08) and the control group (M = 27.87, SD = 6.89), p = 0.53.\nPost ethics survey: There was a significant difference in the mean interest and self-efficacy towards ethics scores between the treatment group (M = 32.39, SD = 5.87) and the control group (M = 28.21, SD = 7.15), p &lt; 0.001.\nPedagogical survey: Mean scores were high (M = 20.20) and the distribution of scores were left-skewed. Each pedagogical goal was examined individually, with results indicating that all goals were achieved.\n\nConclusions:\n\nModules were associated with increased students’ mean level of interest in ethical issues and self-efficacy in dealing with ethical issues.\nA limitation of the study is that students were not randomly assigned to treatment and control groups, and demographic differences existed between the groups.\nAnother limitation is the reliance on self-reported data.\nFuture work could explore a broader range of ethics topics and assess students’ ability to identify ethical issues in specific scenarios."
-  },
-  {
-    "objectID": "notes/horton2022-embeddedethics-CS.html#key-quotes",
-    "href": "notes/horton2022-embeddedethics-CS.html#key-quotes",
-    "title": "Notes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’",
-    "section": "Key Quotes",
-    "text": "Key Quotes\n\n“Our efforts are informed by a set of guiding principles: 1) Don’t proselytize. Teach students how, not what to think 2) Encourage ethics-informed design choices as a design principle 3) Make discussions safe - not personal\n\n\n“Technology is shaping our future. Let’s educate our students to incorporate ethical considerations in the design of that future.”"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "themes.html",
-    "href": "themes.html",
-    "title": "Reading Notes",
-    "section": "",
-    "text": "Notes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’\n\n\n\ngenerative AI\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’\n\n\n\ngenerative AI\n\n\nqualitative analysis\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’\n\n\n\nembedded ethics\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’\n\n\n\nsimulation\n\n\nmodeling\n\n\nlearning outcomes assessment\n\n\ninstrument development\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 21, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Reading notes",
-    "section": "",
-    "text": "Notes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’\n\n\n\n\n\n\nsimulation\n\n\nmodeling\n\n\nlearning outcomes assessment\n\n\ninstrument development\n\n\n\n\n\n\n\n\n\nJul 21, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’\n\n\n\n\n\n\nembedded ethics\n\n\n\n\n\n\n\n\n\nJul 11, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’\n\n\n\n\n\n\ngenerative AI\n\n\nqualitative analysis\n\n\n\n\n\n\n\n\n\nJul 10, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’\n\n\n\n\n\n\ngenerative AI\n\n\n\n\n\n\n\n\n\nJul 8, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "notes/schwarz2025-genAI.html",
     "href": "notes/schwarz2025-genAI.html",
     "title": "Notes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’",
@@ -140,52 +91,52 @@
     "text": "Related Ideas/citations\n\n\n\n\n\n\n\nTopic\nSource\n\n\n\n\nDivision of labor between humans and machines\nFrey, C. B., & Osborne, M. (2024). Generative AI and the future of work: a reappraisal. Brown Journal of World Affairs, 30(1), 1–17."
   },
   {
-    "objectID": "notes/garfield2012-developing-statistical-modelers.html",
-    "href": "notes/garfield2012-developing-statistical-modelers.html",
-    "title": "Notes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Reading notes",
     "section": "",
-    "text": "Garfield, J., delMas, R., & Zieffler, A. (2012). Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course. ZDM, 44(7), 883-898."
+    "text": "Notes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’\n\n\n\n\n\n\nembedded ethics\n\n\n\n\n\n\n\n\n\nJul 11, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’\n\n\n\n\n\n\ngenerative AI\n\n\nqualitative analysis\n\n\n\n\n\n\n\n\n\nJul 10, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’\n\n\n\n\n\n\ngenerative AI\n\n\n\n\n\n\n\n\n\nJul 8, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "notes/garfield2012-developing-statistical-modelers.html#source",
-    "href": "notes/garfield2012-developing-statistical-modelers.html#source",
-    "title": "Notes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’",
+    "objectID": "themes.html",
+    "href": "themes.html",
+    "title": "Reading Notes",
     "section": "",
-    "text": "Garfield, J., delMas, R., & Zieffler, A. (2012). Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course. ZDM, 44(7), 883-898."
+    "text": "Notes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’\n\n\n\ngenerative AI\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’\n\n\n\ngenerative AI\n\n\nqualitative analysis\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’\n\n\n\nembedded ethics\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 11, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "notes/garfield2012-developing-statistical-modelers.html#summary",
-    "href": "notes/garfield2012-developing-statistical-modelers.html#summary",
-    "title": "Notes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "notes/horton2022-embeddedethics-CS.html",
+    "href": "notes/horton2022-embeddedethics-CS.html",
+    "title": "Notes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’",
+    "section": "",
+    "text": "Horton, D., McIlraith, S. A., Wang, N., Majedi, M., McClure, E., & Wald, B. (2022, February). Embedding ethics in computer science courses: Does it work?. In Proceedings of the 53rd ACM Technical Symposium on Computer Science Education-Volume 1 (pp. 481-487)."
+  },
+  {
+    "objectID": "notes/horton2022-embeddedethics-CS.html#source",
+    "href": "notes/horton2022-embeddedethics-CS.html#source",
+    "title": "Notes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’",
+    "section": "",
+    "text": "Horton, D., McIlraith, S. A., Wang, N., Majedi, M., McClure, E., & Wald, B. (2022, February). Embedding ethics in computer science courses: Does it work?. In Proceedings of the 53rd ACM Technical Symposium on Computer Science Education-Volume 1 (pp. 481-487)."
+  },
+  {
+    "objectID": "notes/horton2022-embeddedethics-CS.html#summary",
+    "href": "notes/horton2022-embeddedethics-CS.html#summary",
+    "title": "Notes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’",
     "section": "Summary",
-    "text": "Summary\n\nBackground:\n\nData from a large study of 13,917 undergraduate students enrolled in a first-year statistics course show that CAOS test results, used to assess learning outcomes in statistics (see additional background), remained stable from 2005 to 2011, with no improvement in student performance over the years despite reform efforts.\nThis paper describes the CATALST curriculum and presents the results of a three-month teaching experiment evaluating its implementation and effectiveness.\n\nDescription and design of the CATALST curriculum:\n\nThe CATALST project was designed to create curricular material using research in:\n\nModel-eliciting activities (MEAs): Open-ended problems (authentic or designed to appear authentic) that require small teams of students (3–4) to generate and evaluate solutions. These tasks should engage students in constructing and assessing their reasoning, and the solutions must be generalizable (lead to a solution that can be used in another problem).\nInventing to learn and the role of prior knowledge: In order to solve problem posed in the MEA, students invent and test models, which promotes statistical reasoning and thinking. These MEAs are designed to create the prior knowledge for the following activities in the unit.\nInstructional design principles: Model for instructional design that is grounded in education research on how students learn and how to structure teaching to foster their statistical reasoning. It leads to activities that, for example, have students make testable conjectures about data, develop their reasoning of data generation and analysis, and incorporate technology to support the development of statistical reasoning.\nModeling work: The curriculum is designed to teach students how to “cook”, rather than simply follow a recipe. The aim is to move away from automatically applying a specific procedure (e.g., a t-test) and instead encourage students to consider what model appropriately generates the data, what constitutes sufficient evidence when testing an observed result, and how to use data to estimate the standard error when estimating a parameter. These skills are intended to support success in subsequent courses and enable students to apply their knowledge in novel contexts.\n\nExample: Students practice setting up models, use models to simulate data, examine distributions of simulated data, evaluate an observed result within a distribution, and use that distribution to estimate a standard error.\nTo perform modeling and simulation tasks, software used are Fathom and TinkerPlots™\n\n\nDuring the teaching experiments used to revise the CATALST curriculum, modifications were made based on principles of design experiments (Cobb, 2003).\nThe current version of the CATALST curriculum consists of 3 units: (1) Chance Models and Simulation, (2) Models for Comparing Groups, and (3) Estimating Models using Data.\n\nExperiment:\n\nStudy population:\nResearch question(s): This paper had two primary objectives:\nMethods:\nSelected results:\n\nSelected practical implications:"
+    "text": "Summary\n\nStudy population: Computer science undergraduate students in the winter term 2021.\nResearch question(s):\n\nDo undergraduate students who participate in Embedded Ethics modules report that the modules achieved the pedagogical goals set out in Section 3?\n\nG1: to strongly connect ethics instruction to course content\nG2: to create an environment in which students feel safe sharing their opinions\nG3: to make ethics modules an enjoyable and positive experience\nG4: to generate enthusiasm for learning more about ethics in tech\n\nDo undergraduate students who participate in Embedded Ethics modules have increased interest in and self-efficacy towards ethical issues in technology?\n\nMethods:\n\nCases: Delivered two embedded ethics modules (weeks 8 and 12) in a CS2 course intended for computer science majors.\nControls: Students in a difference CS2 did not receive embedded ethics modules\nEmbedded modules design:\n\nTopic chose was COVID-19 Contact tracing as it raises the ethical concern related to trade-offs between privacy and protecting public health, while relating to course content (e.g. algorithms)\nTo realize G2, students were asked to advocate for the viewpoint of an assigned stakeholder (e.g. health professionals, individuals whom privacy was paramount) \nFlipped class design with a low-stakes writing activity worth 1% towards their course grade.\n\nData: Students completed surveys at the start and end of the study. Each survey included six questions measuring their interest in and confidence with ethical issues in technology. These questions were combined into a single scale (maximum score: 42), with higher scores reflecting greater interest and self-efficacy in dealing with ethical issues. The initial survey also collected demographic information. For students in the treatment group, the post-survey included additional questions about the learning modules. These were combined into a pedagogical scale (maximum score: 25), with higher scores reflecting greater success in meeting pedagogical goals (G1–G4).\n\nResults:\n\nSample: A total of 842 students participated (consented), with 217 in the treatment group and 624 in the control group.\n\nThe control group included a higher proportion of women (38%) compared to the treatment group (24%), p &lt; 0.001.\nA greater percentage of first-generation post-secondary students were in the control group (15%) than in the treatment group (6%), p &lt; 0.001.\n\nInstrument’s internal consistency: TThe ethics scale showed strong internal consistency at both time points, with Cronbach’s alpha of 0.86 on the pre-test and 0.90 on the post-test. The pedagogical scale also demonstrated strong reliability, with a Cronbach’s alpha of 0.81.\nInitial ethics survey: There was no significant difference in the mean baseline ethics survey scores between the treatment group (M = 28.14, SD = 6.08) and the control group (M = 27.87, SD = 6.89), p = 0.53.\nPost ethics survey: There was a significant difference in the mean interest and self-efficacy towards ethics scores between the treatment group (M = 32.39, SD = 5.87) and the control group (M = 28.21, SD = 7.15), p &lt; 0.001.\nPedagogical survey: Mean scores were high (M = 20.20) and the distribution of scores were left-skewed. Each pedagogical goal was examined individually, with results indicating that all goals were achieved.\n\nConclusions:\n\nModules were associated with increased students’ mean level of interest in ethical issues and self-efficacy in dealing with ethical issues.\nA limitation of the study is that students were not randomly assigned to treatment and control groups, and demographic differences existed between the groups.\nAnother limitation is the reliance on self-reported data.\nFuture work could explore a broader range of ethics topics and assess students’ ability to identify ethical issues in specific scenarios."
   },
   {
-    "objectID": "notes/garfield2012-developing-statistical-modelers.html#key-quotes",
-    "href": "notes/garfield2012-developing-statistical-modelers.html#key-quotes",
-    "title": "Notes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’",
+    "objectID": "notes/horton2022-embeddedethics-CS.html#key-quotes",
+    "href": "notes/horton2022-embeddedethics-CS.html#key-quotes",
+    "title": "Notes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’",
     "section": "Key Quotes",
-    "text": "Key Quotes\n\n“Part of developing statistical thinking is to develop ideas of statistical modeling and the importance of selecting appropriate models, and realizing why Box’s statement that all models are wrong, but some are useful is so wise.”"
-  },
-  {
-    "objectID": "notes/garfield2012-developing-statistical-modelers.html#reflection",
-    "href": "notes/garfield2012-developing-statistical-modelers.html#reflection",
-    "title": "Notes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’",
-    "section": "Reflection",
-    "text": "Reflection"
-  },
-  {
-    "objectID": "notes/garfield2012-developing-statistical-modelers.html#additional-background",
-    "href": "notes/garfield2012-developing-statistical-modelers.html#additional-background",
-    "title": "Notes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’",
-    "section": "Additional Background",
-    "text": "Additional Background\n\nThe Comprehensive Assessment of Outcomes in Statistics (CAOS) test, developed by Delmas et al. (2007), consists of 40 items that that students completing any introductory statistics course would be expected to understand. All items are designed to involve real or realistic contexts and data, and adhere to established guidelines for writing multiple-choice questions. The test underwent extensive content validation, with expert raters unanimously agreeing with statements such as: “CAOS measures basic outcomes in statistical literacy and reasoning that are appropriate for a first course in statistics,” and “CAOS measures outcomes for which I would be disappointed if they were not achieved by students who succeed in my statistics courses.” Notably, this validation exercise occurred before simulation-based inference became widely adopted as a pedagogical practice, as discussed in the next paragraph. The test was also subject to class testing, and an analysis of its internal consistency produced a Cronbach’s alpha coefficient of 0.82, indicating an acceptable level of reliability.\nSimulation-based inference (SBI) is a statistical approach that uses data simulated under a null model and the resulting distribution of a test statistic to draw inferences. SBI is widely used in teaching to help students develop intuition about inference through hands-on simulation and visualization."
-  },
-  {
-    "objectID": "notes/garfield2012-developing-statistical-modelers.html#related-ideascitations",
-    "href": "notes/garfield2012-developing-statistical-modelers.html#related-ideascitations",
-    "title": "Notes on : ‘Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course’",
-    "section": "Related Ideas/citations",
-    "text": "Related Ideas/citations\n\n\n\n\n\n\n\nTopic\nSource\n\n\n\n\nModel-eliciting activities\nLesh, R., Hoover, M., Hole, B., Kelly, A., & Post, T. (2012). Principles for developing thought-revealing activities for students and teachers. In Handbook of research design in mathematics and science education (pp. 591-645). Routledge.\n\n\nInstructional design principles\nCobb, P., & McClain, K. (2004). Principles of instructional design for supporting the development of students’ statistical reasoning. In D. Ben-Zvi & J. Garfield (Eds.), The challenge of developing statistical literacy, reasoning, and thinking, 375-396. Cobb, P., Confrey, J., DiSessa, A., Lehrer, R., & Schauble, L. (2003). Design experiments in educational research. Educational researcher, 32(1), 9-13.\n\n\nCAOS test\nDelmas, R., Garfield, J., Ooms, A., & Chance, B. (2007). Assessing students’ conceptual understanding after a first course in statistics. Statistics education research journal, 6(2), 28-58.\n\n\nReconsidering prior knowledge\nSchwartz, D. L., Sears, D., & Chang, J. (2007). Reconsidering prior knowledge. In M. C. Lovett & P. Shah (Eds.), Thinking with data (pp. 319–344). Lawrence Erlbaum Associates Publishers.\n\n\nSoftware\nFinzer, W. (2012). Fathom® Dynamic Data™ (Version 2L) [Computer software]. Emeryville, CA: Key Curriculum Press.  Konold, C., & Miller, C. (2011). TinkerPlots™ Version 2 [computer software]. Emeryville, CA: Key Curriculum Press."
+    "text": "Key Quotes\n\n“Our efforts are informed by a set of guiding principles: 1) Don’t proselytize. Teach students how, not what to think 2) Encourage ethics-informed design choices as a design principle 3) Make discussions safe - not personal\n\n\n“Technology is shaping our future. Let’s educate our students to incorporate ethical considerations in the design of that future.”"
   }
 ]
