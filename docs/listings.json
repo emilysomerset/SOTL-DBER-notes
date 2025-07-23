@@ -1,18 +1,20 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/notes/horton2022-embeddedethics-CS.html",
-      "/notes/pallant2025-genAI-impact.html",
-      "/notes/schwarz2025-genAI.html"
-    ]
-  },
-  {
     "listing": "/themes.html",
     "items": [
       "/notes/schwarz2025-genAI.html",
       "/notes/pallant2025-genAI-impact.html",
-      "/notes/horton2022-embeddedethics-CS.html"
+      "/notes/horton2022-embeddedethics-CS.html",
+      "/notes/guner2025-AI-in-classroom.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/notes/guner2025-AI-in-classroom.html",
+      "/notes/horton2022-embeddedethics-CS.html",
+      "/notes/pallant2025-genAI-impact.html",
+      "/notes/schwarz2025-genAI.html"
     ]
   }
 ]

@@ -1,0 +1,86 @@
+---
+title: "Notes on : 'AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning'"
+author: Emily Somerset
+date: today
+categories: ["generative AI","learning outcomes"]
+tags: [none]
+image: "https://i.pinimg.com/736x/24/62/41/246241700fc683f28d92143f6e525c09.jpg"
+---
+
+## Source
+
+**Güner, H., & Er, E. (2025).** AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning. *Education and Information Technologies*, 30(9) 12681-12707.
+
+## Summary
+
+- **Study population:** Students enrolled in an introductory programming course. 
+- **Sample:** The sample consisted of 158 students enrolled during the 2023-2024 Fall Semester. This sample included 102 first-year students (54.56%) from the Department of Statistics and 56 second-year students (35.44%) from the Department of Computer Education and Instructional Technology. Of the participants, 66 (41.77%) were female and 92 (58.23%) were male.
+- **Research question(s):** 
+    - RQ1: What are the students' profiles while interacting with AI in programming learning?
+    - RQ2: What is the impact of different interventions of AI integration on students' AI interaction profiles?
+    - RQ3: What is the impact of previous programming knowledge on the students' AI interaction profiles?
+    - RQ4: How does students' AI interaction profiles associate with students' performance within each intervention?
+- **Methods:** 
+  - Students attended three in-person labs, each followed by a closed-book quiz designed to assess comprehension and retention of the lab content. 
+  - The labs implemented three distinct AI intervention strategies, applied sequentially across sessions:
+    - Lab 1: Students could use ChatGPT freely, with no additional guidance.
+    - Lab 2: Students could again use ChatGPT freely, but the session began with a tutorial on effective usage strategies and a live demonstration. (*see additional background*)
+    - Lab 3: Students continued to have open access to ChatGPT, with the added support of sample prompts for each sub-task.
+  - **In a qualitative analysis of ChatGPT logs**, the study identified five AI usage profiles reflecting increasing independence from generative AI (RQ1):
+    - AI-reliant code generator
+    - AI-reliant code generator & refiner
+    - AI-collaborative coder
+    - AI-assisted code refiner
+    - AI-independent coder
+  - Sankey diagrams were used to visualize shifts in students' AI usage profiles across the three sessions (RQ2). 
+  - The McNemar-Bowker test was used to assess within-student changes over time (RQ2).
+  - A one-way ANOVA was used to compare pre-test scores across different AI interaction profiles (RQ3).
+  - A one-way ANOVA was used to compare post-test scores across the different profiles within each intervention (RQ4).
+- **Results:**
+  - The proportion of students in the two most AI-dependent profiles rose from 49.09% in session 1 to 53.43% in session 2, then declined to 33.56% by session 3 (RQ1).
+  - By session 3, students were predominantly categorized as AI-collaborative coders (RQ1).
+  - The McNemar-Bowker test revealed significant within-student shifts in AI usage profiles between Session 1 and 2 ($\chi^2(10, N = 135) = 34.48$, *p* < .001) and between Session 2 and 3 ($\chi^2(10, N = 136) = 57.10$, *p* < .001) (RQ2).
+  - From Session 1 to 2, 51% of AI-reliant code generators shifted to also refining AI-generated code, while 35.48% of AI-independent coders began using AI for code refinement. The majority (46%) of students who already used AI to refine their code maintained this status in the second session (RQ2).
+  - Prior knowledge significantly influenced AI interaction profiles, with more knowledgeable students more likely to be AI-Assisted Code Refiners than AI-Reliant Code Generators (RQ3).
+  - Reduced reliance on generative AI was positively associated with higher post-test scores, during first and seccond session (RQ4).
+- **Conclusions:**
+  - Notable changes in student profiles across the three sessions suggest that the AI integration strategies may have influenced how students interacted with ChatGPT.
+  - Transitions towards more collaborative usage of ChatGPT aligns with research on the benefits of AI literacy and prompt guidance.
+  - Some students moved to seeking direct answers, suggesting that training may have been outweighed by task demands.
+  - Students with higher prior knowledge tend to code independently before using ChatGPT for refinement, while those with lower knowledge often rely on direct answers with minimal engagement.
+
+## Additional background
+
+- Strategies for effective prompting and the of ChatGPT for programming learning.
+    - Breaking tasks into sub-tasks and seeking help for each part individually.
+    - Working step-by-step, focusing on one task at a time.
+    - Asking for hints or guidance rather than full solutions.
+    - Critically reviewing and testing AI-generated code.
+    - Sharing relevant code and error messages to get targeted help.
+    - Requesting feedback on their own code.
+    - Asking for explanations of code and underlying logic.
+    - Following up with clarifying questions.
+    - Seeking conceptual explanations with examples to build understanding.
+   
+## Key Quotes
+
+> "While interacting with AI-driven tools, students can display different behaviors, and reveal distinct profiles and patterns in terms of their engagement and utilization."
+
+> "Despite the growing literature on the potential of LLM-based chatbots like ChatGPT in programming education, there remains a significant gap in understanding how to best integrate these tools to enhance learning experiences and outcomes. "
+
+
+## Reflection {.callout-reflection}
+
+- The study by Güner and Er (2025) offers useful insights into student interactions with generative AI. One area that invites further attention is the role of prior knowledge. While students with higher pre-test scores were found to rely less on ChatGPT, this factor wasn’t accounted for in analyses linking interventions to AI usage patterns. This raises the possibility that some observed shifts, such as reduced AI reliance or improved post-test performance, may reflect existing knowledge (on the topic) rather than the interventions themselves. For instance, more knowledgeable students may naturally move toward AI independence and score higher, regardless of the intervention strategy.
+- Although the total sample size was 158, only 146 students were categorized into AI usage profiles at each session, with some students not overlapping across sessions. The Sankey diagrams and McNemar-Bowker tests were based on subsets of 137 students (session 1 to session 2) and 136 students (session 2 to session 3), respectively.
+- A noted limitation by the author is that the prompt analysis relied on ChatGPT conversation histories voluntarily submitted by students, which may not reflect all their interactions.
+
+## Related Ideas/citations
+
+| Topic                                 | Source                                                                                          |
+|---------------------------------------|-------------------------------------------------------------------------------------------------|
+| Impact of generative AI | **Prather, J., Reeves, B., Leinonen, J., MacNeil, S., Randrianasolo, A. S., Becker, B., Briggs, B. (2024).** The widening gap: The benefits and harms of generative ai for novice programmers. *In Proceedings of the 2024 ACM Conference on International Computing Education Research*-Volume 1 (pp. 469-486). | 
+| AI interactions | **Kim, J., Ham, Y., & Lee, S. S. (2024)**. Differences in student-AI interaction process on a drawing task: Focusing on students’ attitude towards AI and the level of drawing skills. *Australasian Journal of Educational Technology*, 40(1), 19–41.<br> **Stojanov, A., Liu, Q., & Koh, J. H. L. (2024)**. University students’ self-reported reliance on ChatGPT for learning: A latent profile analysis. *Computers and Education: Artificial Intelligence*, 6, 100243.|
+| Embedding AI into the curriculum | **Tan, A. A., Huda, M., Rohim, M. A., Hassan, T. R. R., Ismail, A., & Siregar, M. (2024)**. Chat GPT in supporting education instruction sector: An empirical literature review. In *International Congress on Information and Communication Technology* (pp. 13–26).<br> **Suciati, S., Silitonga, L. M., Wiyaka, Huang, C. Y., Anggara, A. A. (2024)**. Enhancing engagement and motivation in english writing through AI: The impact of ChatGPT-supported collaborative learning. In *International Conference on Innovative Technologies and Learning* (pp. 205–214). Springer Nature Switzerland. <br> **Foung, D., Lin, L., & Chen, J. (2024).** Reinventing assessments with ChatGPT and other online tools: Opportunities for GenAI-empowered assessment practices. *Computers and Education: Artificial Intelligence*, 6, 100250.| 
+| AI literacy | **Knoth, N., Tolzin, A., Janson, A., & Leimeister, J. M. (2024)**. AI literacy and its implications for prompt engineering strategies. *Computers and Education: Artificial Intelligence*, 6, 100225. <br> **Tzirides, A. O. O., Zapata, G., Kastania, N. P., Saini, A. K., Castro, V., Ismael, S. A., & Kalantzis, M. (2024)**. Combining human and artificial intelligence for enhanced AI literacy in higher education. *Computers and Education Open*, 6, 100184.|
+

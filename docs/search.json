@@ -49,6 +49,76 @@
     "text": "Related Ideas/citations\n\n\n\n\n\n\n\nTopic\nSource\n\n\n\n\nAI for student engagement\nNguyen, A., Kremantzis, M., Essien, A., Petrounias, I., & Hosseini, S. (2024). Enhancing student engagement through artificial intelligence (AI): Understanding the basics, opportunities, and challenges. Journal of University Teaching and Learning Practice, 21(6), 1-13.\n\n\nAI on critical thinking\nEssien, A., Bukoye, O. T., O’Dea, X., & Kremantzis, M. (2024). The influence of AI text generators on critical thinking skills in UK business schools. Studies in Higher Education, 49(5), 865-882.\n\n\nStudent attitutes towards AI\nChan, C. K. Y., & Zhou, W. (2023). Deconstructing student perceptions of generative AI (GenAI) through an expectancy value theory (EVT)-based instrument. arXiv preprint arXiv:2305.01186.\n\n\nAchievement Goals Framework\nElliot, A. J. (2005). A Conceptual History of the Achievement Goal Construct. Handbook of Competence and Motivation, 52-72. Nicholls, J. G. (1984). Achievement motivation: conceptions of ability, subjective experience, task choice, and performance. Psychological review, 91(3), 328.\n\n\nZone of Proximal Development\nVygotsky, L. S. (1978). Mind in society: The development of higher psychological processes (Vol. 86). Harvard university press."
   },
   {
+    "objectID": "notes/guner2025-AI-in-classroom.html",
+    "href": "notes/guner2025-AI-in-classroom.html",
+    "title": "Notes on : ‘AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning’",
+    "section": "",
+    "text": "Güner, H., & Er, E. (2025). AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning. Education and Information Technologies, 30(9) 12681-12707."
+  },
+  {
+    "objectID": "notes/guner2025-AI-in-classroom.html#source",
+    "href": "notes/guner2025-AI-in-classroom.html#source",
+    "title": "Notes on : ‘AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning’",
+    "section": "",
+    "text": "Güner, H., & Er, E. (2025). AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning. Education and Information Technologies, 30(9) 12681-12707."
+  },
+  {
+    "objectID": "notes/guner2025-AI-in-classroom.html#summary",
+    "href": "notes/guner2025-AI-in-classroom.html#summary",
+    "title": "Notes on : ‘AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning’",
+    "section": "Summary",
+    "text": "Summary\n\nStudy population: Students enrolled in an introductory programming course.\nSample: The sample consisted of 158 students enrolled during the 2023-2024 Fall Semester. This sample included 102 first-year students (54.56%) from the Department of Statistics and 56 second-year students (35.44%) from the Department of Computer Education and Instructional Technology. Of the participants, 66 (41.77%) were female and 92 (58.23%) were male.\nResearch question(s):\n\nRQ1: What are the students’ profiles while interacting with AI in programming learning?\nRQ2: What is the impact of different interventions of AI integration on students’ AI interaction profiles?\nRQ3: What is the impact of previous programming knowledge on the students’ AI interaction profiles?\nRQ4: How does students’ AI interaction profiles associate with students’ performance within each intervention?\n\nMethods:\n\nStudents attended three in-person labs, each followed by a closed-book quiz designed to assess comprehension and retention of the lab content.\nThe labs implemented three distinct AI intervention strategies, applied sequentially across sessions:\n\nLab 1: Students could use ChatGPT freely, with no additional guidance.\nLab 2: Students could again use ChatGPT freely, but the session began with a tutorial on effective usage strategies and a live demonstration. (see additional background)\nLab 3: Students continued to have open access to ChatGPT, with the added support of sample prompts for each sub-task.\n\nIn a qualitative analysis of ChatGPT logs, the study identified five AI usage profiles reflecting increasing independence from generative AI (RQ1):\n\nAI-reliant code generator\nAI-reliant code generator & refiner\nAI-collaborative coder\nAI-assisted code refiner\nAI-independent coder\n\nSankey diagrams were used to visualize shifts in students’ AI usage profiles across the three sessions (RQ2).\nThe McNemar-Bowker test was used to assess within-student changes over time (RQ2).\nA one-way ANOVA was used to compare pre-test scores across different AI interaction profiles (RQ3).\nA one-way ANOVA was used to compare post-test scores across the different profiles within each intervention (RQ4).\n\nResults:\n\nThe proportion of students in the two most AI-dependent profiles rose from 49.09% in session 1 to 53.43% in session 2, then declined to 33.56% by session 3 (RQ1).\nBy session 3, students were predominantly categorized as AI-collaborative coders (RQ1).\nThe McNemar-Bowker test revealed significant within-student shifts in AI usage profiles between Session 1 and 2 (\\(\\chi^2(10, N = 135) = 34.48\\), p &lt; .001) and between Session 2 and 3 (\\(\\chi^2(10, N = 136) = 57.10\\), p &lt; .001) (RQ2).\nFrom Session 1 to 2, 51% of AI-reliant code generators shifted to also refining AI-generated code, while 35.48% of AI-independent coders began using AI for code refinement. The majority (46%) of students who already used AI to refine their code maintained this status in the second session (RQ2).\nPrior knowledge significantly influenced AI interaction profiles, with more knowledgeable students more likely to be AI-Assisted Code Refiners than AI-Reliant Code Generators (RQ3).\nReduced reliance on generative AI was positively associated with higher post-test scores, during first and seccond session (RQ4).\n\nConclusions:\n\nNotable changes in student profiles across the three sessions suggest that the AI integration strategies may have influenced how students interacted with ChatGPT.\nTransitions towards more collaborative usage of ChatGPT aligns with research on the benefits of AI literacy and prompt guidance.\nSome students moved to seeking direct answers, suggesting that training may have been outweighed by task demands.\nStudents with higher prior knowledge tend to code independently before using ChatGPT for refinement, while those with lower knowledge often rely on direct answers with minimal engagement."
+  },
+  {
+    "objectID": "notes/guner2025-AI-in-classroom.html#additional-background",
+    "href": "notes/guner2025-AI-in-classroom.html#additional-background",
+    "title": "Notes on : ‘AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning’",
+    "section": "Additional background",
+    "text": "Additional background\n\nStrategies for effective prompting and the of ChatGPT for programming learning.\n\nBreaking tasks into sub-tasks and seeking help for each part individually.\nWorking step-by-step, focusing on one task at a time.\nAsking for hints or guidance rather than full solutions.\nCritically reviewing and testing AI-generated code.\nSharing relevant code and error messages to get targeted help.\nRequesting feedback on their own code.\nAsking for explanations of code and underlying logic.\nFollowing up with clarifying questions.\nSeeking conceptual explanations with examples to build understanding."
+  },
+  {
+    "objectID": "notes/guner2025-AI-in-classroom.html#key-quotes",
+    "href": "notes/guner2025-AI-in-classroom.html#key-quotes",
+    "title": "Notes on : ‘AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning’",
+    "section": "Key Quotes",
+    "text": "Key Quotes\n\n“While interacting with AI-driven tools, students can display different behaviors, and reveal distinct profiles and patterns in terms of their engagement and utilization.”\n\n\n“Despite the growing literature on the potential of LLM-based chatbots like ChatGPT in programming education, there remains a significant gap in understanding how to best integrate these tools to enhance learning experiences and outcomes.”"
+  },
+  {
+    "objectID": "notes/guner2025-AI-in-classroom.html#reflection",
+    "href": "notes/guner2025-AI-in-classroom.html#reflection",
+    "title": "Notes on : ‘AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning’",
+    "section": "Reflection",
+    "text": "Reflection\n\nThe study by Güner and Er (2025) offers useful insights into student interactions with generative AI. One area that invites further attention is the role of prior knowledge. While students with higher pre-test scores were found to rely less on ChatGPT, this factor wasn’t accounted for in analyses linking interventions to AI usage patterns. This raises the possibility that some observed shifts, such as reduced AI reliance or improved post-test performance, may reflect existing knowledge (on the topic) rather than the interventions themselves. For instance, more knowledgeable students may naturally move toward AI independence and score higher, regardless of the intervention strategy.\nAlthough the total sample size was 158, only 146 students were categorized into AI usage profiles at each session, with some students not overlapping across sessions. The Sankey diagrams and McNemar-Bowker tests were based on subsets of 137 students (session 1 to session 2) and 136 students (session 2 to session 3), respectively.\nA noted limitation by the author is that the prompt analysis relied on ChatGPT conversation histories voluntarily submitted by students, which may not reflect all their interactions."
+  },
+  {
+    "objectID": "notes/guner2025-AI-in-classroom.html#related-ideascitations",
+    "href": "notes/guner2025-AI-in-classroom.html#related-ideascitations",
+    "title": "Notes on : ‘AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning’",
+    "section": "Related Ideas/citations",
+    "text": "Related Ideas/citations\n\n\n\n\n\n\n\nTopic\nSource\n\n\n\n\nImpact of generative AI\nPrather, J., Reeves, B., Leinonen, J., MacNeil, S., Randrianasolo, A. S., Becker, B., Briggs, B. (2024). The widening gap: The benefits and harms of generative ai for novice programmers. In Proceedings of the 2024 ACM Conference on International Computing Education Research-Volume 1 (pp. 469-486).\n\n\nAI interactions\nKim, J., Ham, Y., & Lee, S. S. (2024). Differences in student-AI interaction process on a drawing task: Focusing on students’ attitude towards AI and the level of drawing skills. Australasian Journal of Educational Technology, 40(1), 19–41. Stojanov, A., Liu, Q., & Koh, J. H. L. (2024). University students’ self-reported reliance on ChatGPT for learning: A latent profile analysis. Computers and Education: Artificial Intelligence, 6, 100243.\n\n\nEmbedding AI into the curriculum\nTan, A. A., Huda, M., Rohim, M. A., Hassan, T. R. R., Ismail, A., & Siregar, M. (2024). Chat GPT in supporting education instruction sector: An empirical literature review. In International Congress on Information and Communication Technology (pp. 13–26). Suciati, S., Silitonga, L. M., Wiyaka, Huang, C. Y., Anggara, A. A. (2024). Enhancing engagement and motivation in english writing through AI: The impact of ChatGPT-supported collaborative learning. In International Conference on Innovative Technologies and Learning (pp. 205–214). Springer Nature Switzerland.  Foung, D., Lin, L., & Chen, J. (2024). Reinventing assessments with ChatGPT and other online tools: Opportunities for GenAI-empowered assessment practices. Computers and Education: Artificial Intelligence, 6, 100250.\n\n\nAI literacy\nKnoth, N., Tolzin, A., Janson, A., & Leimeister, J. M. (2024). AI literacy and its implications for prompt engineering strategies. Computers and Education: Artificial Intelligence, 6, 100225.  Tzirides, A. O. O., Zapata, G., Kastania, N. P., Saini, A. K., Castro, V., Ismael, S. A., & Kalantzis, M. (2024). Combining human and artificial intelligence for enhanced AI literacy in higher education. Computers and Education Open, 6, 100184."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "themes.html",
+    "href": "themes.html",
+    "title": "Reading Notes",
+    "section": "",
+    "text": "Notes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’\n\n\n\ngenerative AI\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’\n\n\n\ngenerative AI\n\n\nqualitative analysis\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’\n\n\n\nembedded ethics\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning’\n\n\n\ngenerative AI\n\n\nlearning outcomes\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 23, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Reading notes",
+    "section": "",
+    "text": "Notes on : ‘AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning’\n\n\n\n\n\n\ngenerative AI\n\n\nlearning outcomes\n\n\n\n\n\n\n\n\n\nJul 23, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’\n\n\n\n\n\n\nembedded ethics\n\n\n\n\n\n\n\n\n\nJul 11, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’\n\n\n\n\n\n\ngenerative AI\n\n\nqualitative analysis\n\n\n\n\n\n\n\n\n\nJul 10, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’\n\n\n\n\n\n\ngenerative AI\n\n\n\n\n\n\n\n\n\nJul 8, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "notes/schwarz2025-genAI.html",
     "href": "notes/schwarz2025-genAI.html",
     "title": "Notes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’",
@@ -89,27 +159,6 @@
     "title": "Notes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’",
     "section": "Related Ideas/citations",
     "text": "Related Ideas/citations\n\n\n\n\n\n\n\nTopic\nSource\n\n\n\n\nDivision of labor between humans and machines\nFrey, C. B., & Osborne, M. (2024). Generative AI and the future of work: a reappraisal. Brown Journal of World Affairs, 30(1), 1–17."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Reading notes",
-    "section": "",
-    "text": "Notes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’\n\n\n\n\n\n\nembedded ethics\n\n\n\n\n\n\n\n\n\nJul 11, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’\n\n\n\n\n\n\ngenerative AI\n\n\nqualitative analysis\n\n\n\n\n\n\n\n\n\nJul 10, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’\n\n\n\n\n\n\ngenerative AI\n\n\n\n\n\n\n\n\n\nJul 8, 2025\n\n\nEmily Somerset\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "themes.html",
-    "href": "themes.html",
-    "title": "Reading Notes",
-    "section": "",
-    "text": "Notes on : ‘The use of generative AI in statistical data analysis and its impact on teaching statistics at universities of applied sciences’\n\n\n\ngenerative AI\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Mastering knowledge: the impact of generative AI on student learning outcomes’\n\n\n\ngenerative AI\n\n\nqualitative analysis\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotes on : ‘Embedding Ethics in Computer Science Courses: Does it Work?’\n\n\n\nembedded ethics\n\n\n\n\n\n\n\nEmily Somerset\n\n\nJul 11, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "notes/horton2022-embeddedethics-CS.html",
