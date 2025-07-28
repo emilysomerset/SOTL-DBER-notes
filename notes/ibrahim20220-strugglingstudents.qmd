@@ -2,7 +2,7 @@
 title: "Notes on : 'Teaching Statistics to Struggling Students: Lessons Learned from Students with LD,
 ADHD, and Autism'"
 author: Emily Somerset
-date: today
+date: 2025-07-28
 categories: ["universal design", "cognitive load theory","GAISE"]
 tags: [none]
 image: "https://www.slashfilm.com/img/gallery/this-famous-breakfast-club-scene-was-actually-improved/l-intro-1647364574.jpg"
