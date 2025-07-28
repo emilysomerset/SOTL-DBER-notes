@@ -1,0 +1,105 @@
+---
+title: "Notes on : 'Teaching Statistics to Struggling Students: Lessons Learned from Students with LD,
+ADHD, and Autism'"
+author: Emily Somerset
+date: today
+categories: ["universal design", "cognitive load theory","GAISE"]
+tags: [none]
+image: "https://www.slashfilm.com/img/gallery/this-famous-breakfast-club-scene-was-actually-improved/l-intro-1647364574.jpg"
+---
+
+## Source
+
+**Dahlstrom-Hakki, I., & Wallace, M. L. (2022)**. Teaching statistics to struggling students: Lessons learned from students with LD, ADHD, and autism. *Journal of Statistics and Data Science Education*, 30(2), 127-137.
+
+## Summary
+
+- **Study population:** Students with learning disabilities (LD), Attention Deficit Hyperactivity Disorder (ADHD), and/or autism taking an introductory statistics course.  
+- **Sample:**  
+  - The authors work at Landmark College, a college that exclusively serves a population of students with LD, ADHD, and/or autism.  
+  - Because LD, ADHD, and autism often overlap in symptoms, genetic factors, and diagnoses, this study includes participants from all three groups.  
+  - Data were collected at the end of each of three semesters from 20 intervention participants (9 females, 11 males) and 19 control participants (8 females, 11 males).  
+- **Research question(s):** Can an intervention guided by the GAISE report recommendations and designed to be accessible to students with disabilities lead to an improved understanding of college-level statistics concepts for that population compared to traditional approaches? *(Note by Emily: "Traditional approaches" here refer to those used at Landmark College.)*
+- **Methods:**  
+  - **Intervention design:**  
+    - Modifications to the statistics course were guided by Universal Design for Learning (UDL), GAISE guidelines, current research in statistics education, and Cognitive Load Theory (CLT). Modifications were made to improve statistical literacy and outcomes for students with disabilities.  
+    - **UDL** guidelines (CAST, 2011) informed modifications to the course. These included:  
+      - Ensuring compatibility with assistive technologies (e.g., screen readers)  
+      - Presenting content in multiple formats and modalities  
+      - Using content formatting and graphic organizers  
+      - Offering multiple ways for students to express knowledge  
+      - Providing executive function supports (e.g., time management aids)  
+      - Incorporating personally relevant examples and datasets  
+      - Using TinkerPlots as an alternative tool for learning and engagement  
+    - **CLT** encouraged focusing on building students’ conceptual understanding while reducing the working memory demands typically required by real-world, context-heavy problems (e.g., minimizing the need for symbolic decoding, computational fluency, and verbal and written language processing).  
+    - The team revised the curriculum to better align with the GAISE recommendations, guided by UDL and the following principles:  
+      1. Students should begin exploring real data as soon as possible.  
+      2. Students should explore interesting and/or personally relevant data.  
+      3. Students should be encouraged to create representations of the data that work best for themselves.  
+         - This enabled students to discover and use representations that suited their own thinking, rather than being limited to the typical graphs and charts used in statistics classes.  
+         - The interactive features of TinkerPlots made it easy for students to quickly build and adjust personalized visualizations.  
+         - The representations were reviewed in later sections with a more refined statistical lens.  
+      4. Students should be encouraged to formulate intuitive, informal conclusions based on their exploration of the data.  
+         - Students were encouraged to respond to questions solely based on their custom visual representations of the data prior to using any inferential tools.  
+         - This also motivated the need for inferential statistical tools to provide a more precise and impartial measure of their intuitive interpretations.  
+      5. Formal statistical tools and representations should be introduced later to help refine their interpretations of the data.  
+         - By already having an intuitive sense of what the results of analysis should look like, students were better positioned to interpret the data and identify errors in their analysis.  
+         - By separating the cognitive load associated with developing conceptual understanding from that associated with the application and interpretation of statistical tools and representations, the content became more accessible to struggling learners.  
+  - **Study design:**  
+    - Data were collected across three semesters from control and intervention classrooms.  
+    - The control course was taught using a traditional introductory statistics textbook but still incorporated several pedagogical support elements commonly used at the college.  
+    - The intervention classrooms followed the same progression of topics as the control classrooms but used the approach outlined in points 1–5.  
+    - In both classes, the same traditional assessments were used for grade calculations.  
+    - Students were asked to complete a test composed of seven items designed to assess conceptual understanding of key statistical ideas.  
+      - The test included multiple-choice questions with common misconception-based distractors, followed by a second-tier question requiring students to select the correct explanation.  
+      - Only responses with both the correct answer and explanation were counted as correct, allowing for large-scale assessment while minimizing guessing.  
+- **Results:**  
+  - The mean difference in the number of correctly answered questions between the treatment and control groups was 0.46, with a standard deviation of 1.22 in the treatment group and 1.26 in the control group.  
+  - Students in the intervention group answered slightly more conceptual questions correctly than those in the control group on average, but the difference was not statistically significant according to a t-test at the 5% significance level.  
+  - A post hoc analysis showed no significant GPA difference between the intervention and control groups.
+
+
+## Additional background
+
+
+- **GAISE 2016 report** provides six key recommendations: emphasize statistical thinking and literacy, use real data, emphasize conceptual understanding, use active learning, analyze data using technology, and support learning with assessments.  
+- **Learning disabilities:** An increasing number of postsecondary students in the U.S. report learning and attention difficulties, with recent surveys indicating rising rates of LD, ADHD, and autism diagnoses.  
+- **Executive function (EF)** challenges overlap across the three diagnostic conditions. These challenges include, but are not limited to, maintaining focus, regulating emotions, memory, sustaining effort, difficulty with social interactions, poor organization, and time management.  
+- **Universal Design for Learning (UDL)** is a philosophy that encourages anticipating the diversity of needs within a classroom from the initial design. It promotes designing the curriculum from the ground up to meet the needs of all students, rather than retrofitting a curriculum originally designed with neurotypical students in mind. Guidelines by CAST (2011) are available [here](https://udlguidelines.cast.org/binaries/content/assets/udlguidelines/udlg-v2-0/udlg_graphicorganizer_v2-0.pdf).  
+- **TinkerPlots** is an intuitive data visualization and modeling tool originally designed for middle schoolers, but widely used across educational levels to support the development of statistical reasoning and inference.  
+- **Cognitive Load Theory** suggests that learning is hindered when working memory becomes overloaded during problem-solving or instruction. To address this, instructional design aims to ease the burden on working memory—often aligning with UDL principles—by using strategies like worked examples, minimizing unnecessary details, and incorporating concrete, hands-on materials. Students with disabilities that affect language, number sense, or attention may experience high cognitive load, making it harder for them to engage with and benefit from reform-based curricula, such as context-heavy problems. However, with the right additional support, research shows that students with learning disabilities can develop a deeper conceptual understanding using reform curricula.
+
+
+## Key Quotes
+
+> "The authors consider statistical literacy as the understanding of the basic language of statistics and interpretation of statistical graphs and analyses."
+
+> "Statistical literacy has become a critical component of our daily lives prompting the Common Core State Standards for Mathematics (National Governors Association Center for Best Practices, Council of Chief State School Officers Citation2010) to introduce basic statistical concepts to students as early as kindergarten."
+
+> "Today’s scientists are increasingly expected to be expert consumers and producers of data. This requires an understanding of statistical concepts, collecting data, analyzing a dataset, and accurately interpreting those analyses."
+
+> "We still have relatively little information about how best to teach statistics to students with disabilities and other student populations that typically underperform in statistics. "
+
+
+## Reflection {.callout-reflection}
+
+- The intervention’s guidelines (1–5) and UDL principles can be readily implemented in statistics courses at all levels to better support students with LD, ADHD, and/or autism.  
+- As noted by the authors, this might also benefit other student populations, such as English language learners and students with dyslexia.  
+- I want to continue exploring ways to reduce cognitive load for these students while still incorporating context-rich problems in upper-year data analysis courses.  
+  - TinkerPlots is a valuable resource for supporting data visualization.  
+  - Making data personally relevant to students is another excellent suggestion.  
+  - Separating the cognitive demands of conceptual understanding from those involved in applying and interpreting statistical tools is a strong pedagogical strategy, beneficial for all students regardless of learning differences.  
+- A limitation noted by the authors is that visualization software may challenge learners with certain cognitive or visual processing difficulties, highlighting the need for further research.  
+- The authors note that TinkerPlots shows promise in helping college students with disabilities learn statistics, but its design for younger users limits its utility for more advanced topics.
+
+
+## Related Ideas/citations
+
+| Topic                                 | Source                                                                                          |
+|---------------------------------------|-------------------------------------------------------------------------------------------------|
+| Statistics curriculum reform | **Cobb, G. (1992)**, “Teaching Statistics,” Heeding the Call for Change: Suggestions for Curricular Action, 22, 3–43.| 
+| TinkerPlots |**Konold, C., and Miller, C. D. (2005)**, TinkerPlots: Dynamic Data Exploration, Emeryville, CA: *Key Curriculum Press*. <br>  **Noll, J., and Kirin, D. (2017)**, “TinkerPlots Model Construction Approaches for Comparing Two Groups: Student Perspectives,” *Statistics Education Research Journal*, 16, 213–243. <br> **Noll, J., Kirin, D., Clement, K., and Dolor, J. (2021)**, “Revealing Students’ Stories as they Construct and Use a Statistical Model in TinkerPlots to Conduct a Randomization Test for Comparing Two Groups,” *Mathematical Thinking and Learning*, 1–20.|
+| Universal design | **Mcguire, J. M., Scott, S. S., and Shaw, S. F. (2006)**, “Universal Design and its Applications in Educational Environments,” *Remedial and Special Education*, 27, 166–175. <br> **Rose, D. H., Meyer, A., and Hitchcock, C. (2005)**, The Universally Designed Classroom: Accessible Curriculum and Digital Technologies, Cambridge, MA: *Harvard Education Press*. <br> **Rose, D. H., and Meyer, A. (2002)**, Teaching Every Student in the Digital Age: Universal Design for Learning, Alexandria, VA: ASCD. <br> **Cast, K. (2011)**. Universal Design for Learning Guidelines version 2.0. Wakefield, MA: Author. Center for Applied Special Technology.(2006). Response-to-Instruction and Universal Design for Learning: How Might They Intersect in the General Education Classroom.|
+|Cognitive Load Theory|**Ayres, P., & Paas, F. (2012)**. Cognitive load theory: New directions and challenges. *Applied Cognitive Psychology*, 26(6), 827-832.|
+|Distractor driven assessments | **Herrmann-Abell, C. F., & DeBoer, G. E. (2014)**. Developing and using distractor-driven multiple-choice assessments aligned to ideas about energy forms, transformation, transfer, and conservation. In *Teaching and learning of energy in K–12 education* (pp. 103-133). Cham: Springer International Publishing.|
+

@@ -1,7 +1,7 @@
 ---
 title: "Notes on : 'AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning'"
 author: Emily Somerset
-date: today
+date: 2025-07-23
 categories: ["generative AI","qualitative analysis", "learning outcomes"]
 tags: [none]
 image: "https://i.pinimg.com/736x/24/62/41/246241700fc683f28d92143f6e525c09.jpg"
