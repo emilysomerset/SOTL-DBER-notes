@@ -32,16 +32,16 @@ image: "https://www.slashfilm.com/img/gallery/this-famous-breakfast-club-scene-w
       - Using TinkerPlots as an alternative tool for learning and engagement  
     - **CLT** encouraged focusing on building students’ conceptual understanding while reducing the working memory demands typically required by real-world, context-heavy problems (e.g., minimizing the need for symbolic decoding, computational fluency, and verbal and written language processing).  
     - The team revised the curriculum to better align with the GAISE recommendations, guided by UDL and the following principles:  
-      1. Students should begin exploring real data as soon as possible.  
-      2. Students should explore interesting and/or personally relevant data.  
-      3. Students should be encouraged to create representations of the data that work best for themselves.  
+      1. *Students should begin exploring real data as soon as possible.*  
+      2. *Students should explore interesting and/or personally relevant data.*  
+      3. *Students should be encouraged to create representations of the data that work best for themselves.*  
          - This enabled students to discover and use representations that suited their own thinking, rather than being limited to the typical graphs and charts used in statistics classes.  
          - The interactive features of TinkerPlots made it easy for students to quickly build and adjust personalized visualizations.  
          - The representations were reviewed in later sections with a more refined statistical lens.  
-      4. Students should be encouraged to formulate intuitive, informal conclusions based on their exploration of the data.  
+      4. *Students should be encouraged to formulate intuitive, informal conclusions based on their exploration of the data.*  
          - Students were encouraged to respond to questions solely based on their custom visual representations of the data prior to using any inferential tools.  
          - This also motivated the need for inferential statistical tools to provide a more precise and impartial measure of their intuitive interpretations.  
-      5. Formal statistical tools and representations should be introduced later to help refine their interpretations of the data.  
+      5. *Formal statistical tools and representations should be introduced later to help refine their interpretations of the data.*  
          - By already having an intuitive sense of what the results of analysis should look like, students were better positioned to interpret the data and identify errors in their analysis.  
          - By separating the cognitive load associated with developing conceptual understanding from that associated with the application and interpretation of statistical tools and representations, the content became more accessible to struggling learners.  
   - **Study design:**  
@@ -66,7 +66,7 @@ image: "https://www.slashfilm.com/img/gallery/this-famous-breakfast-club-scene-w
 - **Executive function (EF)** challenges overlap across the three diagnostic conditions. These challenges include, but are not limited to, maintaining focus, regulating emotions, memory, sustaining effort, difficulty with social interactions, poor organization, and time management.  
 - **Universal Design for Learning (UDL)** is a philosophy that encourages anticipating the diversity of needs within a classroom from the initial design. It promotes designing the curriculum from the ground up to meet the needs of all students, rather than retrofitting a curriculum originally designed with neurotypical students in mind. Guidelines by CAST (2011) are available [here](https://udlguidelines.cast.org/binaries/content/assets/udlguidelines/udlg-v2-0/udlg_graphicorganizer_v2-0.pdf).  
 - **TinkerPlots** is an intuitive data visualization and modeling tool originally designed for middle schoolers, but widely used across educational levels to support the development of statistical reasoning and inference.  
-- **Cognitive Load Theory** suggests that learning is hindered when working memory becomes overloaded during problem-solving or instruction. To address this, instructional design aims to ease the burden on working memory—often aligning with UDL principles—by using strategies like worked examples, minimizing unnecessary details, and incorporating concrete, hands-on materials. Students with disabilities that affect language, number sense, or attention may experience high cognitive load, making it harder for them to engage with and benefit from reform-based curricula, such as context-heavy problems. However, with the right additional support, research shows that students with learning disabilities can develop a deeper conceptual understanding using reform curricula.
+- **Cognitive Load Theory** suggests that learning is hindered when working memory becomes overloaded during problem-solving or instruction. Students with disabilities that affect language, number sense, or attention may experience high cognitive load, making it harder for them to engage with and benefit from reform-based curricula, such as context-heavy problems. To address this, instructional design aims to ease the burden on working memory (often aligning with UDL principles) by using strategies like worked examples, minimizing unnecessary details, and incorporating concrete, hands-on materials. 
 
 
 ## Key Quotes
