@@ -4,5 +4,6 @@ listing:
   contents: notes
   categories: true
   sort: "date desc"
+  type: grid
 ---
 

@@ -1,6 +1,5 @@
 ---
-title: "Notes on : 'Teaching Statistics to Struggling Students: Lessons Learned from Students with LD,
-ADHD, and Autism'"
+title: "Notes on : 'Teaching Statistics to Struggling Students: Lessons Learned from Students with LD, ADHD, and Autism'"
 author: Emily Somerset
 date: 2025-07-28
 categories: ["universal design", "cognitive load theory","GAISE"]

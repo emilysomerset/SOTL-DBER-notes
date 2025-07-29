@@ -4,7 +4,7 @@ author: Emily Somerset
 date: 2025-07-11
 categories: [embedded ethics]
 tags: [none]
-image: "https://64.media.tumblr.com/fe806f423896e049bdd3d3122ad743c5/d6014128e26796c5-98/s1280x1920/38379339e2419a002cb14574407f1a46eae268e2.png"
+image: "https://miro.medium.com/v2/resize:fit:500/1*UAGKxL9n3tS1PDfo2mfAxg@2x.jpeg"
 ---
 
 ## Source
